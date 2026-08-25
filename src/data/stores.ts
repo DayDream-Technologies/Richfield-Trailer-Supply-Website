@@ -18,6 +18,8 @@ export type Store = {
   mapsUrl: string;
   mapsEmbed: string;
   description: string;
+  lat: number;
+  lon: number;
 };
 
 export const stores: Store[] = [
@@ -43,6 +45,8 @@ export const stores: Store[] = [
       "https://maps.google.com/maps?q=2535%20Richfield%20Rd%2C%20Flint%2C%20MI%2048506&output=embed",
     description:
       "Our original Michigan location stocks a deep selection of axle, brake, lighting, and towing parts for retail and wholesale customers across Genesee County.",
+    lat: 43.0625,
+    lon: -83.6372,
   },
   {
     slug: "grand-rapids",
@@ -66,6 +70,8 @@ export const stores: Store[] = [
       "https://maps.google.com/maps?q=7245%20Division%20Ave%20S%2C%20Grand%20Rapids%2C%20MI%2049548&output=embed",
     description:
       "West Michigan’s source for trailer and RV parts, serving dealers, fleets, and owner-operators from our Division Avenue store.",
+    lat: 42.8874,
+    lon: -85.6618,
   },
   {
     slug: "traverse-city",
@@ -90,6 +96,8 @@ export const stores: Store[] = [
       "https://maps.google.com/maps?q=470%20US-31%20South%2C%20Traverse%20City%2C%20MI%2049685&output=embed",
     description:
       "Northern Michigan’s trailer parts counter on US-31, stocked for boat trailers, utility trailers, RVs, and year-round repair work.",
+    lat: 44.7318,
+    lon: -85.6412,
   },
 ];
 

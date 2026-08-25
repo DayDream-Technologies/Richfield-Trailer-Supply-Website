@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { PageHero } from "@/components/PageHero";
 import { StoreCard } from "@/components/StoreCard";
+import { MichiganMap } from "@/components/MichiganMap";
 import { JsonLd } from "@/components/JsonLd";
 import { stores } from "@/data/stores";
 import { localBusinessNode } from "@/lib/seo";
@@ -33,7 +34,8 @@ export default function LocationsPage() {
         description={`${site.name} counters in Flint, Grand Rapids, and Traverse City. Hours differ slightly in Traverse City.`}
       />
       <div className="mx-auto max-w-6xl px-4 py-12 md:px-6">
-        <div className="grid gap-5 md:grid-cols-3">
+        <MichiganMap />
+        <div className="mt-8 grid gap-5 md:grid-cols-3">
           {stores.map((store) => (
             <StoreCard key={store.slug} store={store} />
           ))}

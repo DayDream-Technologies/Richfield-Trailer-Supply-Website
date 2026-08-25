@@ -3,8 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { StoreCard } from "@/components/StoreCard";
-import { BrandGrid } from "@/components/BrandGrid";
 import { JsonLd } from "@/components/JsonLd";
+import { brands } from "@/data/brands";
 import { faqs } from "@/data/faq";
 import { stores } from "@/data/stores";
 import { faqJsonLd } from "@/lib/seo";
@@ -131,9 +131,16 @@ export default function HomePage() {
             <p className="mt-2 text-sm text-steel">
               Availability varies by location. Ask the counter.
             </p>
-            <div className="mt-4">
-              <BrandGrid />
-            </div>
+            <ul className="mt-4 flex flex-wrap gap-2">
+              {brands.map((brand) => (
+                <li
+                  key={brand}
+                  className="rounded-sm border border-line bg-paper px-3 py-1.5 text-sm text-steel"
+                >
+                  {brand}
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
