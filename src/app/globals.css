@@ -46,8 +46,14 @@ html {
   }
 
   a,
-  button {
+  button,
+  .map-pin .pin-mark {
     transition: none;
+  }
+
+  .map-pin:hover .pin-mark,
+  .map-pin:focus-visible .pin-mark {
+    transform: none;
   }
 }
 
@@ -76,12 +82,15 @@ button {
   }
 }
 
-.map-pin {
-  transition: opacity 0.2s ease;
+.map-pin .pin-mark {
+  transform-origin: 0px 0px;
+  transform-box: fill-box;
+  transition: transform 0.2s ease;
 }
 
-.map-pin:hover {
-  opacity: 0.85;
+.map-pin:hover .pin-mark,
+.map-pin:focus-visible .pin-mark {
+  transform: scale(1.12);
 }
 
 .map-pin:focus-visible {
