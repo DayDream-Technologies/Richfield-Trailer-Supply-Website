@@ -1,0 +1,34 @@
+[
+  {
+    "sku": "8891040",
+    "name": "Magnetic Light Bar",
+    "slug": "8891040-magnetic-light-bar",
+    "category": "lighting",
+    "subcategory": "towing-lights",
+    "summary": "Magnetic towing light bar for vehicles without permanent trailer lighting."
+  },
+  {
+    "sku": "TOW-KIT",
+    "name": "Magnetic Tow Light Kit",
+    "slug": "tow-kit-magnetic-tow-light-kit",
+    "category": "lighting",
+    "subcategory": "towing-lights",
+    "summary": "Magnetic kit with 4-flat connector."
+  },
+  {
+    "sku": "TOW-WIRELESS",
+    "name": "Wireless Magnetic Tow Lights",
+    "slug": "tow-wireless-wireless-magnetic-tow-lights",
+    "category": "lighting",
+    "subcategory": "towing-lights",
+    "summary": "Wireless magnetic towing lights. Call to confirm stock."
+  },
+  {
+    "sku": "TOW-SUCTION",
+    "name": "Suction Tow Light Set",
+    "slug": "tow-suction-suction-tow-light-set",
+    "category": "lighting",
+    "subcategory": "towing-lights",
+    "summary": "Temporary towing lights with suction mounts."
+  }
+]

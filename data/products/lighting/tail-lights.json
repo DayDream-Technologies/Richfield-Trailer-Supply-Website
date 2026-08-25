@@ -1,0 +1,98 @@
+[
+  {
+    "sku": "5625111",
+    "name": "LED 5 Box Style RH",
+    "slug": "5625111-led-5-box-style-rh",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "LED 5 in box-style tail light, right hand."
+  },
+  {
+    "sku": "5625117",
+    "name": "LED 5 Box Style LH",
+    "slug": "5625117-led-5-box-style-lh",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "LED 5 in box-style tail light, left hand."
+  },
+  {
+    "sku": "5626550",
+    "name": "6.5 Oval S.T.T. 10 LED",
+    "slug": "5626550-6-5-oval-s-t-t-10-led",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "6.5 in oval stop/tail/turn, 10 LED."
+  },
+  {
+    "sku": "38469B",
+    "name": "11 LED Light Bar S/T/T",
+    "slug": "38469b-11-led-light-bar-s-t-t",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "11-LED stop/tail/turn light bar."
+  },
+  {
+    "sku": "5626156",
+    "name": "6 Oval STT 6 LED",
+    "slug": "5626156-6-oval-stt-6-led",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "6 in oval stop/tail/turn, 6 LED."
+  },
+  {
+    "sku": "STL26RB",
+    "name": "LED Low Profile Light",
+    "slug": "stl26rb-led-low-profile-light",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Low-profile LED stop/tail/turn."
+  },
+  {
+    "sku": "5624150",
+    "name": "4 in LED Round 10 LED",
+    "slug": "5624150-4-in-led-round-10-led",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "4 in round 10-LED stop/tail/turn."
+  },
+  {
+    "sku": "STL78RB",
+    "name": "LED Oval 6.5 Surface Mount",
+    "slug": "stl78rb-led-oval-6-5-surface-mount",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Surface-mount 6.5 in oval LED lamp."
+  },
+  {
+    "sku": "STL27RB",
+    "name": "LED Low Profile Light Oval",
+    "slug": "stl27rb-led-low-profile-light-oval",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Low-profile oval LED lamp."
+  },
+  {
+    "sku": "64RB",
+    "name": "LED Stop/Tail/Turn",
+    "slug": "64rb-led-stop-tail-turn",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Combination LED stop/tail/turn lamp."
+  },
+  {
+    "sku": "TL-ROUND",
+    "name": "Round Combination Tail Light",
+    "slug": "tl-round-round-combination-tail-light",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Stud-mount combination tail light for utility trailers."
+  },
+  {
+    "sku": "TL-OVAL-INC",
+    "name": "6.5 Oval Incandescent STT",
+    "slug": "tl-oval-inc-6-5-oval-incandescent-stt",
+    "category": "lighting",
+    "subcategory": "tail-lights",
+    "summary": "Incandescent 6.5 in oval stop/tail/turn."
+  }
+]

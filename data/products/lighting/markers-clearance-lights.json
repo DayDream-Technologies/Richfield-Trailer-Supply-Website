@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "22550",
+    "name": "2.5 LED Red",
+    "slug": "22550-2-5-led-red",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2.5 in red LED clearance/marker lamp."
+  },
+  {
+    "sku": "522A",
+    "name": "Amber LED 3/4",
+    "slug": "522a-amber-led-3-4",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "3/4 in amber LED marker."
+  },
+  {
+    "sku": "512R",
+    "name": "Red LED 3/4",
+    "slug": "512r-red-led-3-4",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "3/4 in red LED marker."
+  },
+  {
+    "sku": "8892240",
+    "name": "Amber Strobe Thin Lite",
+    "slug": "8892240-amber-strobe-thin-lite",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Thin amber strobe/marker light."
+  },
+  {
+    "sku": "751031KR",
+    "name": "2 LED Round Red",
+    "slug": "751031kr-2-led-round-red",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2 in round red LED marker."
+  },
+  {
+    "sku": "MKR-AMBER25",
+    "name": "2.5 LED Amber",
+    "slug": "mkr-amber25-2-5-led-amber",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2.5 in amber LED clearance lamp."
+  },
+  {
+    "sku": "MKR-SIDE",
+    "name": "Sidemarker LED",
+    "slug": "mkr-side-sidemarker-led",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Sidemarker LED, red or amber by lens."
+  },
+  {
+    "sku": "MKR-THIN",
+    "name": "Thin Line Clearance LED",
+    "slug": "mkr-thin-thin-line-clearance-led",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Low-profile clearance LED for enclosed trailers."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "K7138700",
+    "name": "Oil Seal 8 9 10K 2.25 X 3.88",
+    "slug": "k7138700-oil-seal-8-9-10k-2-25-x-3-88",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Oil seal for 8K–10K hubs, 2.25 x 3.88 in."
+  },
+  {
+    "sku": "SEAL-3500",
+    "name": "Grease Seal 3,500 lb",
+    "slug": "seal-3500-grease-seal-3-500-lb",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Standard grease seal for many 3,500 lb hubs."
+  },
+  {
+    "sku": "SEAL-1750",
+    "name": "Grease Seal 1,750 lb",
+    "slug": "seal-1750-grease-seal-1-750-lb",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Grease seal for 1,750 lb hubs."
+  },
+  {
+    "sku": "SEAL-7K",
+    "name": "Grease Seal 7K",
+    "slug": "seal-7k-grease-seal-7k",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Seal for 7,000 lb hub-and-drum assemblies."
+  },
+  {
+    "sku": "SEAL-DOUBLE",
+    "name": "Double Lip Grease Seal",
+    "slug": "seal-double-double-lip-grease-seal",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Double-lip seal for wet and dusty service."
+  },
+  {
+    "sku": "CAP-SEALKIT",
+    "name": "Seal and Cap Service Kit",
+    "slug": "cap-sealkit-seal-and-cap-service-kit",
+    "category": "brakes-hubs",
+    "subcategory": "seals-and-caps",
+    "summary": "Grease seal plus matching dust cap."
+  }
+]

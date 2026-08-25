@@ -1,0 +1,98 @@
+[
+  {
+    "sku": "SW4B",
+    "name": "Spring 25.25/1750#",
+    "slug": "sw4b-spring-25-25-1750",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye leaf spring, 25.25 in, 1,750 lb."
+  },
+  {
+    "sku": "DE7224",
+    "name": "Spring 25-1/4 2000# Dbl Eye",
+    "slug": "de7224-spring-25-1-4-2000-dbl-eye",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye spring, 25-1/4 in, 2,000 lb."
+  },
+  {
+    "sku": "SW6",
+    "name": "25.25 DBL Eye Spring 3500#",
+    "slug": "sw6-25-25-dbl-eye-spring-3500",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye spring for 3,500 lb axles, 25.25 in."
+  },
+  {
+    "sku": "DE7225",
+    "name": "Spring 25-1/4 2500# Dbl Eye",
+    "slug": "de7225-spring-25-1-4-2500-dbl-eye",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye spring, 25-1/4 in, 2,500 lb."
+  },
+  {
+    "sku": "SW5",
+    "name": "25.25 DBL Eye Spring 2950#",
+    "slug": "sw5-25-25-dbl-eye-spring-2950",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye spring, 25.25 in, 2,950 lb."
+  },
+  {
+    "sku": "SH7232",
+    "name": "Spring 26.5 x 2 3500# Slipper",
+    "slug": "sh7232-spring-26-5-x-2-3500-slipper",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Slipper spring, 26.5 x 2 in, 3,500 lb."
+  },
+  {
+    "sku": "E5115",
+    "name": "Spring 29.5/4300#",
+    "slug": "e5115-spring-29-5-4300",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Longer leaf spring, 29.5 in, 4,300 lb."
+  },
+  {
+    "sku": "SH7233",
+    "name": "Spring 4K 26.50 Long Slipper",
+    "slug": "sh7233-spring-4k-26-50-long-slipper",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "4,000 lb slipper spring, 26.50 in long."
+  },
+  {
+    "sku": "SHE5226",
+    "name": "Spring 26.5X2 3400# Slipper",
+    "slug": "she5226-spring-26-5x2-3400-slipper",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Slipper spring 26.5 x 2 in, 3,400 lb."
+  },
+  {
+    "sku": "SP-5K-DE",
+    "name": "Double Eye Spring 5,200#",
+    "slug": "sp-5k-de-double-eye-spring-5-200",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Double-eye spring for 5,200 lb axles."
+  },
+  {
+    "sku": "SP-7K-SL",
+    "name": "Slipper Spring 7,000#",
+    "slug": "sp-7k-sl-slipper-spring-7-000",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Heavy-duty slipper spring for 7K axles."
+  },
+  {
+    "sku": "SP-1750-26",
+    "name": "Spring 26 in 1750#",
+    "slug": "sp-1750-26-spring-26-in-1750",
+    "category": "axle-suspension",
+    "subcategory": "springs",
+    "summary": "Light-duty double-eye spring, 26 in."
+  }
+]

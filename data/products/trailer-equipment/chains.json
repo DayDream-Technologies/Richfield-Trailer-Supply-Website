@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "7020",
+    "name": "G70 3/8 x 20",
+    "slug": "7020-g70-3-8-x-20",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "Grade 70 transport chain, 3/8 in x 20 ft."
+  },
+  {
+    "sku": "SC3835",
+    "name": "3/8 X 35 Chain 26400#",
+    "slug": "sc3835-3-8-x-35-chain-26400",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "3/8 in safety/transport chain, 35 in, 26,400 lb."
+  },
+  {
+    "sku": "SC51635",
+    "name": "5/16 X 35 Safety Chain 11700#",
+    "slug": "sc51635-5-16-x-35-safety-chain-11700",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "5/16 in safety chain, 35 in, 11,700 lb."
+  },
+  {
+    "sku": "1436",
+    "name": "1/4 X 36 Chain 12600#",
+    "slug": "1436-1-4-x-36-chain-12600",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "1/4 in chain, 36 in, 12,600 lb."
+  },
+  {
+    "sku": "HOOK-18K",
+    "name": "3/8 Safety Latch Clevis Hook 18,000 lb",
+    "slug": "hook-18k-3-8-safety-latch-clevis-hook-18-000-lb",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "3/8 in safety latch clevis hook, 18,000 lb, 7/16 in pin."
+  },
+  {
+    "sku": "HOOK-24K",
+    "name": "3/8 Safety Latch Clevis Hook 24,000 lb",
+    "slug": "hook-24k-3-8-safety-latch-clevis-hook-24-000-lb",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "3/8 in safety latch clevis hook, 24,000 lb, 7/16 in pin."
+  },
+  {
+    "sku": "HOOK-14K",
+    "name": "5/16 Safety Latch Clevis Hook 14,000 lb",
+    "slug": "hook-14k-5-16-safety-latch-clevis-hook-14-000-lb",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "5/16 in safety latch clevis hook, 14,000 lb, 3/8 in pin."
+  },
+  {
+    "sku": "CHAIN-BINDER",
+    "name": "Ratchet Binder 3/8-1/2",
+    "slug": "chain-binder-ratchet-binder-3-8-1-2",
+    "category": "trailer-equipment",
+    "subcategory": "chains",
+    "summary": "Ratchet load binder for 3/8–1/2 in chain."
+  }
+]

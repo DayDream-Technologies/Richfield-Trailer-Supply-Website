@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "36618",
+    "name": "Square Work Light",
+    "slug": "36618-square-work-light",
+    "category": "lighting",
+    "subcategory": "interior-lights",
+    "summary": "Square interior/work light for cargo and enclosed trailers."
+  },
+  {
+    "sku": "INT-DOME",
+    "name": "12V Dome Light",
+    "slug": "int-dome-12v-dome-light",
+    "category": "lighting",
+    "subcategory": "interior-lights",
+    "summary": "Interior dome light for enclosed trailers and campers."
+  },
+  {
+    "sku": "INT-LED-STRIP",
+    "name": "LED Interior Strip Light",
+    "slug": "int-led-strip-led-interior-strip-light",
+    "category": "lighting",
+    "subcategory": "interior-lights",
+    "summary": "Low-profile LED strip for cargo interiors."
+  },
+  {
+    "sku": "INT-SWITCH",
+    "name": "Interior Light with Switch",
+    "slug": "int-switch-interior-light-with-switch",
+    "category": "lighting",
+    "subcategory": "interior-lights",
+    "summary": "Dome light with built-in switch."
+  },
+  {
+    "sku": "INT-PORCH-INT",
+    "name": "Utility Interior Lamp",
+    "slug": "int-porch-int-utility-interior-lamp",
+    "category": "lighting",
+    "subcategory": "interior-lights",
+    "summary": "Utility lamp for porches or cargo areas."
+  }
+]

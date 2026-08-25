@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "SUS-35-DE",
+    "name": "3,500 lb Double-Eye Suspension Kit",
+    "slug": "sus-35-de-3-500-lb-double-eye-suspension-kit",
+    "category": "axle-suspension",
+    "subcategory": "suspension-kits",
+    "summary": "Hangers, equalizer, links, and hardware for 3,500 lb tandem conversion."
+  },
+  {
+    "sku": "SUS-52-SL",
+    "name": "5,200 lb Slipper Suspension Kit",
+    "slug": "sus-52-sl-5-200-lb-slipper-suspension-kit",
+    "category": "axle-suspension",
+    "subcategory": "suspension-kits",
+    "summary": "Slipper hanger kit for 5,200 lb axles."
+  },
+  {
+    "sku": "SUS-7K",
+    "name": "7,000 lb Tandem Suspension Kit",
+    "slug": "sus-7k-7-000-lb-tandem-suspension-kit",
+    "category": "axle-suspension",
+    "subcategory": "suspension-kits",
+    "summary": "Heavy-duty tandem kit with equalizer and hangers."
+  },
+  {
+    "sku": "SUS-SINGLE35",
+    "name": "Single Axle Hanger Kit 3.5K",
+    "slug": "sus-single35-single-axle-hanger-kit-3-5k",
+    "category": "axle-suspension",
+    "subcategory": "suspension-kits",
+    "summary": "Front and rear hangers plus U-bolts for a single 3,500 lb axle."
+  },
+  {
+    "sku": "SUS-TRI7",
+    "name": "Triple Axle 7K Kit",
+    "slug": "sus-tri7-triple-axle-7k-kit",
+    "category": "axle-suspension",
+    "subcategory": "suspension-kits",
+    "summary": "Hanger and equalizer package for triple 7K axles."
+  }
+]

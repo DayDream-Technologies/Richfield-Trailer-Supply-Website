@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "BA-KIT",
+    "name": "Breakaway Kit with Battery",
+    "slug": "ba-kit-breakaway-kit-with-battery",
+    "category": "towing",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Complete breakaway switch, battery, and box."
+  },
+  {
+    "sku": "BA-SWITCH",
+    "name": "Breakaway Switch",
+    "slug": "ba-switch-breakaway-switch",
+    "category": "towing",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Replacement breakaway switch with lanyard."
+  },
+  {
+    "sku": "BA-BATT",
+    "name": "Breakaway Battery",
+    "slug": "ba-batt-breakaway-battery",
+    "category": "towing",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Rechargeable breakaway battery."
+  },
+  {
+    "sku": "BA-BOX",
+    "name": "Breakaway Battery Box",
+    "slug": "ba-box-breakaway-battery-box",
+    "category": "towing",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Weather-resistant box for the breakaway battery."
+  },
+  {
+    "sku": "BA-LANYARD",
+    "name": "Breakaway Lanyard",
+    "slug": "ba-lanyard-breakaway-lanyard",
+    "category": "towing",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Replacement lanyard/cable."
+  }
+]

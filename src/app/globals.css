@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0b1f3a;
+  --navy-mid: #16355c;
+  --navy-deep: #071526;
+  --cream: #f4efe6;
+  --paper: #fbf8f3;
+  --steel: #5c6b7a;
+  --copper: #b87333;
+  --copper-dark: #8c5522;
+  --brand: #c4122e;
+  --brand-dark: #9a0e24;
+  --ink: #1c1917;
+  --line: #d9d1c4;
+}
+
+@theme inline {
+  --color-navy: var(--navy);
+  --color-navy-mid: var(--navy-mid);
+  --color-navy-deep: var(--navy-deep);
+  --color-cream: var(--cream);
+  --color-paper: var(--paper);
+  --color-steel: var(--steel);
+  --color-copper: var(--copper);
+  --color-copper-dark: var(--copper-dark);
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+  --color-ink: var(--ink);
+  --color-line: var(--line);
+  --font-sans: var(--font-source-sans);
+  --font-display: var(--font-barlow);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-source-sans), "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-barlow), "Arial Narrow", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+::selection {
+  background: #e6c49a;
+  color: var(--navy-deep);
+}

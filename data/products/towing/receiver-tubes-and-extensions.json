@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "RED-SLEEVE",
+    "name": "Reducer Sleeve 2-1/2 to 2 in Shank",
+    "slug": "red-sleeve-reducer-sleeve-2-1-2-to-2-in-shank",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "Sleeve to run a 2 in shank in a 2.5 in receiver."
+  },
+  {
+    "sku": "EXT-2-6",
+    "name": "Receiver Extension 6 in",
+    "slug": "ext-2-6-receiver-extension-6-in",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "6 in 2 in receiver extension."
+  },
+  {
+    "sku": "EXT-2-12",
+    "name": "Receiver Extension 12 in",
+    "slug": "ext-2-12-receiver-extension-12-in",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "12 in 2 in receiver extension. Mind tongue-weight ratings."
+  },
+  {
+    "sku": "TUBE-2",
+    "name": "Receiver Tube 2 in",
+    "slug": "tube-2-receiver-tube-2-in",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "Weld-on 2 in receiver tube."
+  },
+  {
+    "sku": "TUBE-25",
+    "name": "Receiver Tube 2.5 in",
+    "slug": "tube-25-receiver-tube-2-5-in",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "Weld-on 2.5 in receiver tube."
+  },
+  {
+    "sku": "EXT-25-8",
+    "name": "2.5 in Receiver Extension",
+    "slug": "ext-25-8-2-5-in-receiver-extension",
+    "category": "towing",
+    "subcategory": "receiver-tubes-and-extensions",
+    "summary": "Extension for 2.5 in receivers."
+  }
+]

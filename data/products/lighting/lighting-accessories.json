@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "34216",
+    "name": "3 Wire Plug Right Angle",
+    "slug": "34216-3-wire-plug-right-angle",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Right-angle 3-wire pigtail for oval and round lamps."
+  },
+  {
+    "sku": "442470",
+    "name": "Light Guard Oval",
+    "slug": "442470-light-guard-oval",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Protective guard for 6.5 in oval lamps."
+  },
+  {
+    "sku": "ACC-GROMMET65",
+    "name": "Grommet 6.5 Oval",
+    "slug": "acc-grommet65-grommet-6-5-oval",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Mounting grommet for 6.5 in oval lights."
+  },
+  {
+    "sku": "ACC-GROMMET4",
+    "name": "Grommet 4 in Round",
+    "slug": "acc-grommet4-grommet-4-in-round",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Grommet for 4 in round stop/tail/turn lamps."
+  },
+  {
+    "sku": "ACC-PIGTAIL",
+    "name": "3-Wire Pigtail",
+    "slug": "acc-pigtail-3-wire-pigtail",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Standard 3-wire lamp pigtail."
+  },
+  {
+    "sku": "ACC-2WIRE",
+    "name": "2-Wire Marker Pigtail",
+    "slug": "acc-2wire-2-wire-marker-pigtail",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Pigtail for single-function marker lights."
+  },
+  {
+    "sku": "ACC-GROMMET25",
+    "name": "Grommet 2.5 in",
+    "slug": "acc-grommet25-grommet-2-5-in",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Grommet for 2.5 in marker lamps."
+  },
+  {
+    "sku": "ACC-PLUG3",
+    "name": "3-Pin Plug",
+    "slug": "acc-plug3-3-pin-plug",
+    "category": "lighting",
+    "subcategory": "lighting-accessories",
+    "summary": "Replacement 3-pin lamp plug."
+  }
+]

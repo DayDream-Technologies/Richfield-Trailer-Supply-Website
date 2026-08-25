@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Richfield Trailer Supply">
+  <rect width="1200" height="630" fill="#0B1F3A"/>
+  <rect y="520" width="1200" height="110" fill="#071526"/>
+  <text x="80" y="220" fill="#B87333" font-family="Arial, sans-serif" font-size="28" letter-spacing="8">SINCE 1955</text>
+  <text x="80" y="320" fill="#F4EFE6" font-family="Arial, sans-serif" font-size="72" font-weight="700">RICHFIELD</text>
+  <text x="80" y="390" fill="#B87333" font-family="Arial, sans-serif" font-size="32" letter-spacing="10">TRAILER SUPPLY</text>
+  <text x="80" y="470" fill="#D9D1C4" font-family="Arial, sans-serif" font-size="24">Flint · Grand Rapids · Traverse City</text>
+  <path fill="#B87333" d="M720 340h90l45-80h170l80 80h95v36H720z"/>
+  <circle cx="820" cy="400" r="28" fill="#F4EFE6"/>
+  <circle cx="1020" cy="400" r="28" fill="#F4EFE6"/>
+</svg>

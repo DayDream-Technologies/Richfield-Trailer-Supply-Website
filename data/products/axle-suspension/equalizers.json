@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "EQ4541",
+    "name": "Equalizer 12 x 4",
+    "slug": "eq4541-equalizer-12-x-4",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Cast equalizer for tandem axle leaf-spring suspensions."
+  },
+  {
+    "sku": "EQ-LONG",
+    "name": "Equalizer Long Cast",
+    "slug": "eq-long-equalizer-long-cast",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Long-body cast equalizer for wider hanger spreads."
+  },
+  {
+    "sku": "EQ-STD",
+    "name": "Equalizer",
+    "slug": "eq-std-equalizer",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Standard replacement equalizer. Bring the old part for exact match."
+  },
+  {
+    "sku": "EQ3510",
+    "name": "Equalizer 10 in",
+    "slug": "eq3510-equalizer-10-in",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Shorter equalizer for compact tandem setups."
+  },
+  {
+    "sku": "EQ4812",
+    "name": "Equalizer 12 in Forged",
+    "slug": "eq4812-equalizer-12-in-forged",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Heavy-duty forged equalizer for 7K-class axles."
+  },
+  {
+    "sku": "EQ-TRI",
+    "name": "Triple Axle Equalizer",
+    "slug": "eq-tri-triple-axle-equalizer",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Center equalizer for triple-axle leaf spring systems."
+  },
+  {
+    "sku": "EQ4525",
+    "name": "Equalizer 7K Tandem",
+    "slug": "eq4525-equalizer-7k-tandem",
+    "category": "axle-suspension",
+    "subcategory": "equalizers",
+    "summary": "Replacement equalizer used on many 7,000 lb tandem trailers."
+  }
+]

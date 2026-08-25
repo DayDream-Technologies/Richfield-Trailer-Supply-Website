@@ -1,0 +1,98 @@
+[
+  {
+    "sku": "176500",
+    "name": "3 X 9/16 U Bolt",
+    "slug": "176500-3-x-9-16-u-bolt",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "U-bolt for 3 in round axles with 9/16 in threads."
+  },
+  {
+    "sku": "1121",
+    "name": "U-Bolt 2 3/8 In Tube X 5 1/2",
+    "slug": "1121-u-bolt-2-3-8-in-tube-x-5-1-2",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "U-bolt for 2-3/8 in axle tubes, 5-1/2 in legs."
+  },
+  {
+    "sku": "1118",
+    "name": "U-Bolt 3 In Tube X 7",
+    "slug": "1118-u-bolt-3-in-tube-x-7",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "U-bolt for 3 in axle tubes with 7 in legs."
+  },
+  {
+    "sku": "TP238175",
+    "name": "Tie Plate 2.38 X 1.75",
+    "slug": "tp238175-tie-plate-2-38-x-1-75",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Tie plate for 2.38 in axle tubes."
+  },
+  {
+    "sku": "00718700",
+    "name": "Wet Bolt 3",
+    "slug": "00718700-wet-bolt-3",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "3 in wet bolt for spring and hanger connections."
+  },
+  {
+    "sku": "2007T",
+    "name": "9/16-18 2 Way Rev Lock Nut Zinc",
+    "slug": "2007t-9-16-18-2-way-rev-lock-nut-zinc",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Lock nut for 9/16-18 hanger and shackle hardware."
+  },
+  {
+    "sku": "HGR-FRONT",
+    "name": "Front Spring Hanger",
+    "slug": "hgr-front-front-spring-hanger",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Weld-on front hanger for double-eye leaf springs."
+  },
+  {
+    "sku": "HGR-REAR",
+    "name": "Rear Spring Hanger",
+    "slug": "hgr-rear-rear-spring-hanger",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Weld-on rear hanger for slipper or double-eye springs."
+  },
+  {
+    "sku": "SEAT-238",
+    "name": "Axle Seat 2-3/8 in",
+    "slug": "seat-238-axle-seat-2-3-8-in",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Axle seat for 2-3/8 in round axles."
+  },
+  {
+    "sku": "SEAT-3",
+    "name": "Axle Seat 3 in",
+    "slug": "seat-3-axle-seat-3-in",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Axle seat for 3 in round axles."
+  },
+  {
+    "sku": "UB-SQUARE",
+    "name": "Square U-Bolt Kit",
+    "slug": "ub-square-square-u-bolt-kit",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "U-bolt kit for square-tube axles. Confirm tube size before ordering."
+  },
+  {
+    "sku": "HGR-CTR",
+    "name": "Center Hanger Tandem",
+    "slug": "hgr-ctr-center-hanger-tandem",
+    "category": "axle-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Center hanger used with tandem equalizers."
+  }
+]

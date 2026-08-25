@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "25580",
+    "name": "Bearing 1-3/4 Inner",
+    "slug": "25580-bearing-1-3-4-inner",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Inner bearing, 1-3/4 in. Match with the correct race."
+  },
+  {
+    "sku": "L44649",
+    "name": "Bearing L44649",
+    "slug": "l44649-bearing-l44649",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Common inner/outer bearing for 1,750–2,000 lb spindles."
+  },
+  {
+    "sku": "L68149",
+    "name": "Bearing L68149",
+    "slug": "l68149-bearing-l68149",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Bearing used on many 3,500 lb trailer hubs."
+  },
+  {
+    "sku": "15123",
+    "name": "Bearing 15123",
+    "slug": "15123-bearing-15123",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Inner bearing for popular 3,500–5,200 lb hubs."
+  },
+  {
+    "sku": "25580-R",
+    "name": "Race for 1-3/4 Inner",
+    "slug": "25580-r-race-for-1-3-4-inner",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Matching race for 25580-style inner bearings."
+  },
+  {
+    "sku": "L44610",
+    "name": "Race L44610",
+    "slug": "l44610-race-l44610",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Race for L44649 bearings."
+  },
+  {
+    "sku": "LM67048",
+    "name": "Bearing LM67048",
+    "slug": "lm67048-bearing-lm67048",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Outer bearing found on several 5–7K hubs."
+  },
+  {
+    "sku": "14125A",
+    "name": "Bearing 14125A",
+    "slug": "14125a-bearing-14125a",
+    "category": "brakes-hubs",
+    "subcategory": "bearing-and-race",
+    "summary": "Heavy-duty inner bearing for 6–8K applications."
+  }
+]

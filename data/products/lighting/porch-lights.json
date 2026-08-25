@@ -1,0 +1,34 @@
+[
+  {
+    "sku": "PORCH-LED",
+    "name": "LED RV Porch Light",
+    "slug": "porch-led-led-rv-porch-light",
+    "category": "lighting",
+    "subcategory": "porch-lights",
+    "summary": "Porch light for RV and camper entries."
+  },
+  {
+    "sku": "PORCH-SWITCH",
+    "name": "Porch Light with Switch",
+    "slug": "porch-switch-porch-light-with-switch",
+    "category": "lighting",
+    "subcategory": "porch-lights",
+    "summary": "Porch lamp with integral switch."
+  },
+  {
+    "sku": "PORCH-AMBER",
+    "name": "Amber Porch Light",
+    "slug": "porch-amber-amber-porch-light",
+    "category": "lighting",
+    "subcategory": "porch-lights",
+    "summary": "Amber lens porch light."
+  },
+  {
+    "sku": "PORCH-CLEAR",
+    "name": "Clear Porch Light",
+    "slug": "porch-clear-clear-porch-light",
+    "category": "lighting",
+    "subcategory": "porch-lights",
+    "summary": "Clear-lens LED porch light."
+  }
+]

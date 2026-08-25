@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "43002",
+    "name": "10 ft E-Track",
+    "slug": "43002-10-ft-e-track",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "10 ft E-track rail for cargo control."
+  },
+  {
+    "sku": "19148",
+    "name": "5 ft E-Track",
+    "slug": "19148-5-ft-e-track",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "5 ft E-track section."
+  },
+  {
+    "sku": "ESCDR",
+    "name": "E Track Fitting D Ring",
+    "slug": "escdr-e-track-fitting-d-ring",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "E-track D-ring fitting."
+  },
+  {
+    "sku": "ET-STRAP",
+    "name": "E-Track Ratchet Strap",
+    "slug": "et-strap-e-track-ratchet-strap",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "Ratchet strap with E-track end fittings."
+  },
+  {
+    "sku": "ET-SHORING",
+    "name": "E-Track Shoring Beam",
+    "slug": "et-shoring-e-track-shoring-beam",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "Shoring/load beam for E-track."
+  },
+  {
+    "sku": "ET-O",
+    "name": "E-Track O-Ring Fitting",
+    "slug": "et-o-e-track-o-ring-fitting",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "O-ring style E-track fitting."
+  },
+  {
+    "sku": "ET-2FT",
+    "name": "2 ft E-Track",
+    "slug": "et-2ft-2-ft-e-track",
+    "category": "trailer-equipment",
+    "subcategory": "e-track-fittings",
+    "summary": "Short E-track section for custom installs."
+  }
+]

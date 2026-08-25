@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "HAR-7WAY",
+    "name": "7-Way Trailer Harness",
+    "slug": "har-7way-7-way-trailer-harness",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "7-way blade harness for brake-equipped trailers."
+  },
+  {
+    "sku": "HAR-4FLAT",
+    "name": "4-Flat Harness",
+    "slug": "har-4flat-4-flat-harness",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4-flat lighting harness for utility trailers."
+  },
+  {
+    "sku": "HAR-5WAY",
+    "name": "5-Way Harness",
+    "slug": "har-5way-5-way-harness",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "5-way harness for trailers with reverse or aux functions."
+  },
+  {
+    "sku": "EXT-7-4",
+    "name": "7-Way Extension 4 ft",
+    "slug": "ext-7-4-7-way-extension-4-ft",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4 ft 7-way extension."
+  },
+  {
+    "sku": "EXT-7-8",
+    "name": "7-Way Extension 8 ft",
+    "slug": "ext-7-8-7-way-extension-8-ft",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "8 ft 7-way extension."
+  },
+  {
+    "sku": "EXT-4-4",
+    "name": "4-Flat Extension 4 ft",
+    "slug": "ext-4-4-4-flat-extension-4-ft",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4 ft 4-flat extension."
+  },
+  {
+    "sku": "ADP-7TO4",
+    "name": "7-Way to 4-Flat Adapter",
+    "slug": "adp-7to4-7-way-to-4-flat-adapter",
+    "category": "towing",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "Adapter from 7-way vehicle to 4-flat trailer."
+  }
+]

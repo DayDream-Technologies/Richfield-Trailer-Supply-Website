@@ -1,0 +1,90 @@
+[
+  {
+    "sku": "CTA-14",
+    "name": "Adjustable Coupler 2 5/16",
+    "slug": "cta-14-adjustable-coupler-2-5-16",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Adjustable 2-5/16 in coupler."
+  },
+  {
+    "sku": "25008",
+    "name": "Gooseneck Coupler w/Pin",
+    "slug": "25008-gooseneck-coupler-w-pin",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Gooseneck coupler with pin."
+  },
+  {
+    "sku": "CA5400",
+    "name": "A-Frame 2 5/16 14K",
+    "slug": "ca5400-a-frame-2-5-16-14k",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "A-frame coupler, 2-5/16 in, 14,000 lb."
+  },
+  {
+    "sku": "CPL-UNILOCK",
+    "name": "Universal Trailer Coupler Lock",
+    "slug": "cpl-unilock-universal-trailer-coupler-lock",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Universal coupler lock."
+  },
+  {
+    "sku": "80PL",
+    "name": "20000# Flat Mount Coupler 2 5/16",
+    "slug": "80pl-20000-flat-mount-coupler-2-5-16",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Flat-mount coupler, 2-5/16 in, 20,000 lb."
+  },
+  {
+    "sku": "CA5100",
+    "name": "A-Frame 2 in Coupler",
+    "slug": "ca5100-a-frame-2-in-coupler",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "A-frame coupler for 2 in balls."
+  },
+  {
+    "sku": "CPL-2X2",
+    "name": "2 X 2 Coupler",
+    "slug": "cpl-2x2-2-x-2-coupler",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "2 x 2 in channel coupler."
+  },
+  {
+    "sku": "3003",
+    "name": "2 X 3 Coupler",
+    "slug": "3003-2-x-3-coupler",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "2 x 3 in channel coupler."
+  },
+  {
+    "sku": "CA5210-B",
+    "name": "2 A Frame 8K",
+    "slug": "ca5210-b-2-a-frame-8k",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "A-frame 2 in coupler, 8,000 lb."
+  },
+  {
+    "sku": "CPL-STR2",
+    "name": "Straight Coupler 2 in",
+    "slug": "cpl-str2-straight-coupler-2-in",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Straight coupler for 2 in balls."
+  },
+  {
+    "sku": "CPL-LATCH",
+    "name": "Coupler Latch Repair Kit",
+    "slug": "cpl-latch-coupler-latch-repair-kit",
+    "category": "trailer-equipment",
+    "subcategory": "couplers",
+    "summary": "Latch, spring, and handle kit. Confirm coupler model."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "5626510",
+    "name": "6.5 Oval S.T.T. Kit",
+    "slug": "5626510-6-5-oval-s-t-t-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "6.5 in oval stop/tail/turn lighting kit."
+  },
+  {
+    "sku": "751024KR",
+    "name": "LED 6.5 Oval Kit",
+    "slug": "751024kr-led-6-5-oval-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "LED 6.5 in oval trailer light kit."
+  },
+  {
+    "sku": "38309BK",
+    "name": "LED Submersible Light Kit",
+    "slug": "38309bk-led-submersible-light-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "Submersible LED kit for boat trailers."
+  },
+  {
+    "sku": "TLL90RK",
+    "name": "LED Tail Light Kit",
+    "slug": "tll90rk-led-tail-light-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "Complete LED tail light kit for utility trailers."
+  },
+  {
+    "sku": "5624110",
+    "name": "4 in Round 10 LED Kit",
+    "slug": "5624110-4-in-round-10-led-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "4 in round 10-LED stop/tail/turn kit."
+  },
+  {
+    "sku": "KIT-UTIL",
+    "name": "Utility Trailer Light Kit",
+    "slug": "kit-util-utility-trailer-light-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "Over-the-road kit with tails, markers, and license lamp."
+  },
+  {
+    "sku": "KIT-ENC",
+    "name": "Enclosed Trailer LED Kit",
+    "slug": "kit-enc-enclosed-trailer-led-kit",
+    "category": "lighting",
+    "subcategory": "lighting-kits",
+    "summary": "LED kit sized for enclosed cargo trailers."
+  }
+]

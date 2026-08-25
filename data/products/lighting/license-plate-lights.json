@@ -1,0 +1,34 @@
+[
+  {
+    "sku": "LP-LED",
+    "name": "LED License Plate Light",
+    "slug": "lp-led-led-license-plate-light",
+    "category": "lighting",
+    "subcategory": "license-plate-lights",
+    "summary": "LED license lamp, 12V."
+  },
+  {
+    "sku": "LP-INC",
+    "name": "License Plate Light Assembly",
+    "slug": "lp-inc-license-plate-light-assembly",
+    "category": "lighting",
+    "subcategory": "license-plate-lights",
+    "summary": "Standard license plate light assembly."
+  },
+  {
+    "sku": "LP-BRACKET",
+    "name": "License Light with Bracket",
+    "slug": "lp-bracket-license-light-with-bracket",
+    "category": "lighting",
+    "subcategory": "license-plate-lights",
+    "summary": "Plate light and bracket combination."
+  },
+  {
+    "sku": "LP-FLUSH",
+    "name": "Flush Mount License Light",
+    "slug": "lp-flush-flush-mount-license-light",
+    "category": "lighting",
+    "subcategory": "license-plate-lights",
+    "summary": "Flush-mount LED license lamp."
+  }
+]

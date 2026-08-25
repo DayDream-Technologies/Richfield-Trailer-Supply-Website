@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "LUG-12MM",
+    "name": "Lug Nut 12 mm",
+    "slug": "lug-12mm-lug-nut-12-mm",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "12 mm lug nut for many trailer wheels."
+  },
+  {
+    "sku": "LUG-12-CONE",
+    "name": "Cone Lug Nut 1/2",
+    "slug": "lug-12-cone-cone-lug-nut-1-2",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "1/2 in cone lug nut."
+  },
+  {
+    "sku": "LUG-916",
+    "name": "Lug Nut 9/16",
+    "slug": "lug-916-lug-nut-9-16",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "9/16 in lug nut for 8-lug wheels."
+  },
+  {
+    "sku": "CAP-CENTER",
+    "name": "Wheel Center Cap",
+    "slug": "cap-center-wheel-center-cap",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "Center cap. Confirm diameter and retention style."
+  },
+  {
+    "sku": "WRENCH-LUG",
+    "name": "Trailer Lug Wrench",
+    "slug": "wrench-lug-trailer-lug-wrench",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "Lug wrench sized for common trailer nuts."
+  },
+  {
+    "sku": "WASHER-LUG",
+    "name": "Lug Nut Washer",
+    "slug": "washer-lug-lug-nut-washer",
+    "category": "wheel-tire",
+    "subcategory": "wheel-accessories",
+    "summary": "Washer used on some mag / aluminum wheels."
+  }
+]

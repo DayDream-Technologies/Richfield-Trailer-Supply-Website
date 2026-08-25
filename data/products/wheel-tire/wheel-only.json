@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "WH-15-5-WHITE",
+    "name": "15 in 5-Lug White Spoke Wheel",
+    "slug": "wh-15-5-white-15-in-5-lug-white-spoke-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "15 in white spoke trailer wheel, 5-lug."
+  },
+  {
+    "sku": "WH-15-6",
+    "name": "15 in 6-Lug Trailer Wheel",
+    "slug": "wh-15-6-15-in-6-lug-trailer-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "15 in 6-lug steel trailer wheel."
+  },
+  {
+    "sku": "WH-16-8",
+    "name": "16 in 8-Lug White Wheel",
+    "slug": "wh-16-8-16-in-8-lug-white-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "16 in 8-lug white steel wheel."
+  },
+  {
+    "sku": "WH-14-5",
+    "name": "14 in 5-Lug White Spoke",
+    "slug": "wh-14-5-14-in-5-lug-white-spoke",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "14 in 5-lug white spoke wheel."
+  },
+  {
+    "sku": "WH-13-5",
+    "name": "13 in 5-Lug Trailer Wheel",
+    "slug": "wh-13-5-13-in-5-lug-trailer-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "13 in 5-lug wheel for lighter trailers."
+  },
+  {
+    "sku": "WH-ALUM15",
+    "name": "15 in Aluminum Trailer Wheel",
+    "slug": "wh-alum15-15-in-aluminum-trailer-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "15 in aluminum trailer wheel. Confirm offset and load."
+  },
+  {
+    "sku": "WH-GAL10",
+    "name": "10 in Galvanized Wheel",
+    "slug": "wh-gal10-10-in-galvanized-wheel",
+    "category": "wheel-tire",
+    "subcategory": "wheel-only",
+    "summary": "Galvanized 10 in wheel for boat trailers."
+  }
+]
