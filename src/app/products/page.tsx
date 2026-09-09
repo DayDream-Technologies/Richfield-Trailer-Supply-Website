@@ -9,7 +9,7 @@ const count = getAllProducts().length;
 export const metadata: Metadata = {
   title: "Trailer Parts Catalog",
   description:
-    "Browse axle, brake, lighting, wheel, towing, and trailer equipment. Call Flint, Grand Rapids, or Traverse City for stock and pricing.",
+    "Browse trailer parts near you in Michigan: axle, brake, lighting, wheel, towing, and trailer equipment. Call Flint, Grand Rapids, or Traverse City for stock and pricing.",
   alternates: { canonical: "/products/" },
 };
 

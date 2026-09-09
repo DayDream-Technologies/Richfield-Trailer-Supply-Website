@@ -12,7 +12,7 @@ import { site } from "@/lib/site";
 import hero from "@/images/hero.avif";
 
 export const metadata: Metadata = {
-  title: "Trailer & RV Parts in Flint, Grand Rapids & Traverse City",
+  title: "Trailer Parts Near You in Flint, Grand Rapids & Traverse City",
   description: site.description,
   alternates: { canonical: "/" },
 };
@@ -40,12 +40,13 @@ export default function HomePage() {
               Since 1955 · Flint · Grand Rapids · Traverse City
             </p>
             <h1 className="mt-4 font-display text-4xl font-semibold uppercase leading-tight tracking-wide md:text-6xl">
-              Trailer parts are our specialty
+              Trailer parts near you in Michigan
             </h1>
             <p className="mt-5 text-lg leading-relaxed text-cream/90">
-              Family-owned wholesale and retail counter for axle, brake, lighting,
-              wheel, and towing parts. In stock when we can — special-ordered when
-              we cannot. Call to confirm fitment. No online checkout.
+              Family-owned wholesale and retail counters in Flint, Grand Rapids,
+              and Traverse City. Axle, brake, lighting, wheel, and towing parts
+              in stock when we can — special-ordered when we cannot. Call the
+              store closest to you. No online checkout.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
@@ -90,10 +91,10 @@ export default function HomePage() {
             Visit
           </p>
           <h2 className="mt-2 font-display text-3xl uppercase tracking-wide text-navy">
-            Three locations, one parts counter
+            Trailer parts near Flint, Grand Rapids & Traverse City
           </h2>
           <p className="mt-3 max-w-2xl text-steel">
-            Flint, Grand Rapids, and Traverse City. Bring the old part when you
+            Searching for trailer parts near you? Bring the old part when you
             can — trailer manufacturers mix vendors, and matching is faster in person.
           </p>
           <div className="mt-8 grid gap-5 md:grid-cols-3">

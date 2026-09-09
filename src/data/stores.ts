@@ -33,7 +33,7 @@ export const stores: Store[] = [
     address: "2535 Richfield Rd, Flint, MI 48506",
     phone: "(810) 736-2680",
     phoneTel: "+18107362680",
-    email: "sales@richfieldtrailer.com",
+    email: "flintstore@richfieldtrailer.com",
     hours: {
       weekday: "Mon–Fri 8:00am – 5:30pm",
       saturday: "Sat 8:00am – 1:00pm",
@@ -103,6 +103,10 @@ export const stores: Store[] = [
 
 export function getStore(slug: string): Store | undefined {
   return stores.find((store) => store.slug === slug);
+}
+
+export function storeHashPath(slug: string): string {
+  return `/locations/#${slug}`;
 }
 
 export const primaryStore = stores[0];

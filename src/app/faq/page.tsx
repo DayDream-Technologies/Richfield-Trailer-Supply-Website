@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { JsonLd } from "@/components/JsonLd";
 import { PageHero } from "@/components/PageHero";
-import { StoreCallout } from "@/components/StoreCallout";
 import { faqs } from "@/data/faq";
 import { faqJsonLd } from "@/lib/seo";
 
@@ -32,9 +32,13 @@ export default function FaqPage() {
             </div>
           ))}
         </dl>
-        <div className="mt-10">
-          <StoreCallout />
-        </div>
+        <p className="mt-10 text-steel">
+          Still have a question?{" "}
+          <Link href="/locations/" className="text-navy underline-offset-2 hover:underline">
+            Call or visit a store
+          </Link>
+          .
+        </p>
       </div>
     </>
   );

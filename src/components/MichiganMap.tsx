@@ -1,9 +1,6 @@
 import { stores, type Store } from "@/data/stores";
 import { michiganMap, projectMichigan } from "@/data/michigan-map";
 
-const basePath =
-  process.env.GITHUB_PAGES === "true" ? "/Richfield-Trailer-Supply-Website" : "";
-
 const pinLayout: Record<
   Store["slug"],
   { dx: number; dy: number; anchor: "start" | "end" | "middle" }
@@ -26,7 +23,7 @@ export function MichiganMap() {
           Lower Peninsula stores
         </figcaption>
         <p className="mt-1 text-sm text-steel">
-          Three counters across Michigan. Select a pin for hours and directions.
+          Three counters across Michigan. Select a pin to scroll to hours and contact.
         </p>
       </div>
       <svg
@@ -77,7 +74,7 @@ export function MichiganMap() {
           const { x, y } = projectMichigan(store.lon, store.lat);
           const label = pinLayout[store.slug];
           return (
-            <a key={store.slug} href={`${basePath}/locations/${store.slug}/`} className="map-pin">
+            <a key={store.slug} href={`#${store.slug}`} className="map-pin">
               <g className="cursor-pointer">
                 <title>{`${store.name}: ${store.address}`}</title>
                 <g transform={`translate(${x} ${y})`} filter="url(#pin-shadow)">

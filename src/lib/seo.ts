@@ -16,6 +16,7 @@ export function organizationJsonLd() {
     areaServed: site.areaServed,
     email: stores[0].email,
     telephone: stores[0].phone,
+    sameAs: [site.social.facebook, site.social.linkedin],
     address: {
       "@type": "PostalAddress",
       streetAddress: stores[0].street,
@@ -34,12 +35,28 @@ export function localBusinessNode(store: Store) {
 
   return {
     "@type": "AutoPartsStore",
-    "@id": absoluteUrl(`/locations/${store.slug}/`),
+    "@id": absoluteUrl(`/locations/#${store.slug}`),
     name: `${site.name} — ${store.name}`,
-    url: absoluteUrl(`/locations/${store.slug}/`),
+    url: absoluteUrl(`/locations/#${store.slug}`),
     telephone: store.phone,
     email: store.email,
     image: absoluteUrl("/og.svg"),
+    hasMap: store.mapsUrl,
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: store.lat,
+      longitude: store.lon,
+    },
+    areaServed: [
+      {
+        "@type": "City",
+        name: store.city,
+      },
+      {
+        "@type": "State",
+        name: "Michigan",
+      },
+    ],
     address: {
       "@type": "PostalAddress",
       streetAddress: store.street,

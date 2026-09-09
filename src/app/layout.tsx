@@ -24,7 +24,7 @@ const sourceSans = Source_Sans_3({
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: `${site.name} | Trailer Parts in Flint, Grand Rapids & Traverse City`,
+    default: `${site.name} | Trailer Parts Near You in Flint, Grand Rapids & Traverse City`,
     template: `%s | ${site.name}`,
   },
   description: site.description,

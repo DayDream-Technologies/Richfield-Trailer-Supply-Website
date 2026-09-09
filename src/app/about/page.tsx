@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { PageHero } from "@/components/PageHero";
-import { StoreCallout } from "@/components/StoreCallout";
-import { stores } from "@/data/stores";
 
 export const metadata: Metadata = {
   title: "About Us",
@@ -52,17 +50,6 @@ export default function AboutPage() {
           </Link>
           .
         </p>
-        <ul className="mt-8 grid gap-3 sm:grid-cols-3">
-          {stores.map((store) => (
-            <li key={store.slug} className="rounded-sm border border-line bg-cream p-4">
-              <p className="font-display uppercase tracking-wide text-navy">{store.name}</p>
-              <p className="mt-1 text-sm text-steel">{store.cityStateZip}</p>
-            </li>
-          ))}
-        </ul>
-        <div className="mt-10">
-          <StoreCallout heading="Talk to a parts specialist" />
-        </div>
       </article>
     </>
   );
