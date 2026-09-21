@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "GR-TUBE",
+    "name": "Trailer Wheel Bearing Grease",
+    "slug": "gr-tube-trailer-wheel-bearing-grease",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "grease-guns-grease",
+    "summary": "High-temperature grease formulated for trailer wheel bearings."
+  },
+  {
+    "sku": "GR-GUN",
+    "name": "Lever Grease Gun",
+    "slug": "gr-gun-lever-grease-gun",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "grease-guns-grease",
+    "summary": "Standard lever grease gun for zerk fittings and packing."
+  },
+  {
+    "sku": "GR-PACKER",
+    "name": "Bearing Packer",
+    "slug": "gr-packer-bearing-packer",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "grease-guns-grease",
+    "summary": "Hand bearing packer for cleaning and repacking hubs."
+  },
+  {
+    "sku": "GR-EZ",
+    "name": "Easy Lube Grease",
+    "slug": "gr-ez-easy-lube-grease",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "grease-guns-grease",
+    "summary": "Grease suitable for easy-lube / wet spindles."
+  },
+  {
+    "sku": "GR-MARINE",
+    "name": "Marine Trailer Grease",
+    "slug": "gr-marine-marine-trailer-grease",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "grease-guns-grease",
+    "summary": "Water-resistant grease for boat trailers."
+  }
+]

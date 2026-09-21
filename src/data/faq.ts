@@ -7,12 +7,12 @@ export const faqs: FaqItem[] = [
   {
     question: "The lights on my trailer aren’t working. What should I check first?",
     answer:
-      "Most trailer lighting problems start with a bad ground. Confirm every lamp and the connector are properly grounded, then inspect the trailer plug and the vehicle socket for corrosion, bent pins, or broken wires. If the harness looks sound, bring the trailer in and we can help isolate the circuit.",
+      "Most trailer lighting problems start with a bad ground. Confirm every lamp and the connector are properly grounded, then inspect the trailer plug and the vehicle socket for corrosion, bent pins, or broken wires.",
   },
   {
     question: "What are the black streaks on my RV, and how do I remove them?",
     answer:
-      "Black streaks form when UV dries a rubber roof and rain washes residue down the sidewalls. Prevent them with a rubber-roof cleaner and UV protectant two to four times a year. Existing streaks usually come off with a dedicated black-streak remover such as Bio-Kleen. We stock cleaners at all three stores.",
+      "Black streaks form when UV dries a rubber roof and rain washes residue down the sidewalls. Prevent them with a rubber-roof cleaner and UV protectant two to four times a year. Existing streaks usually come off with a dedicated black-streak remover such as Bio-Kleen.",
   },
   {
     question: "What sanitation chemical should I use?",
@@ -27,7 +27,7 @@ export const faqs: FaqItem[] = [
   {
     question: "How can I convert hydraulic brakes to electric brakes?",
     answer:
-      "The trailer needs an electric-brake wiring run and a compatible electric brake controller in the tow vehicle. Electric brakes are generally simpler to service. Bring the axle rating and drum size and we can kit the brakes, magnets, and controller.",
+      "The trailer needs an electric-brake wiring run and a compatible electric brake controller in the tow vehicle. Electric brakes are generally simpler to service. Bring the axle rating and drum size and we can package the brakes, magnets, and controller.",
   },
   {
     question: "What type of grease seal do I need?",

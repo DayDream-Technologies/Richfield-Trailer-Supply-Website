@@ -1,37 +1,5 @@
 [
   {
-    "sku": "EA2000",
-    "name": "A Frame Jack 2K",
-    "slug": "ea2000-a-frame-jack-2k",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "A-frame jack, 2,000 lb."
-  },
-  {
-    "sku": "JACK-5K",
-    "name": "Side-Wind Jack 5,000 lb",
-    "slug": "jack-5k-side-wind-jack-5-000-lb",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "Side-wind trailer jack, 5,000 lb."
-  },
-  {
-    "sku": "JACK-DLX",
-    "name": "Drop-Leg Jack",
-    "slug": "jack-dlx-drop-leg-jack",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "Drop-leg jack for heavier tongues. Confirm lift capacity."
-  },
-  {
-    "sku": "WINCH-2K",
-    "name": "Utility Winch 2,000 lb",
-    "slug": "winch-2k-utility-winch-2-000-lb",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "2,000 lb utility winch with strap."
-  },
-  {
     "sku": "RATCHET",
     "name": "Ratchet Strap 2 in",
     "slug": "ratchet-ratchet-strap-2-in",

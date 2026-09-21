@@ -33,7 +33,7 @@ export const stores: Store[] = [
     address: "2535 Richfield Rd, Flint, MI 48506",
     phone: "(810) 736-2680",
     phoneTel: "+18107362680",
-    email: "flintstore@richfieldtrailer.com",
+    email: "RTSFlint@richfieldts.com",
     hours: {
       weekday: "Mon–Fri 8:00am – 5:30pm",
       saturday: "Sat 8:00am – 1:00pm",
@@ -58,7 +58,7 @@ export const stores: Store[] = [
     address: "7245 Division Ave S, Grand Rapids, MI 49548",
     phone: "(616) 281-3220",
     phoneTel: "+16162813220",
-    email: "GRStore@richfieldtrailer.com",
+    email: "RTSGR@richfieldts.com",
     hours: {
       weekday: "Mon–Fri 8:00am – 5:30pm",
       saturday: "Sat 8:00am – 1:00pm",
@@ -83,7 +83,7 @@ export const stores: Store[] = [
     address: "470 US-31 South, Traverse City, MI 49685",
     phone: "(231) 943-4700",
     phoneTel: "+12319434700",
-    email: "tcstore@richfieldtrailer.com",
+    email: "RTSTC@richfieldts.com",
     hours: {
       weekday: "Mon–Fri 8:30am – 5:30pm",
       saturday: "Sat 8:30am – 1:00pm",

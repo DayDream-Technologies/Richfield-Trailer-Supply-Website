@@ -3,7 +3,7 @@
     "sku": "EQ4541",
     "name": "Equalizer 12 x 4",
     "slug": "eq4541-equalizer-12-x-4",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Cast equalizer for tandem axle leaf-spring suspensions."
   },
@@ -11,7 +11,7 @@
     "sku": "EQ-LONG",
     "name": "Equalizer Long Cast",
     "slug": "eq-long-equalizer-long-cast",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Long-body cast equalizer for wider hanger spreads."
   },
@@ -19,7 +19,7 @@
     "sku": "EQ-STD",
     "name": "Equalizer",
     "slug": "eq-std-equalizer",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Standard replacement equalizer. Bring the old part for exact match."
   },
@@ -27,7 +27,7 @@
     "sku": "EQ3510",
     "name": "Equalizer 10 in",
     "slug": "eq3510-equalizer-10-in",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Shorter equalizer for compact tandem setups."
   },
@@ -35,7 +35,7 @@
     "sku": "EQ4812",
     "name": "Equalizer 12 in Forged",
     "slug": "eq4812-equalizer-12-in-forged",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Heavy-duty forged equalizer for 7K-class axles."
   },
@@ -43,7 +43,7 @@
     "sku": "EQ-TRI",
     "name": "Triple Axle Equalizer",
     "slug": "eq-tri-triple-axle-equalizer",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Center equalizer for triple-axle leaf spring systems."
   },
@@ -51,63 +51,15 @@
     "sku": "EQ4525",
     "name": "Equalizer 7K Tandem",
     "slug": "eq4525-equalizer-7k-tandem",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "equalizers",
     "summary": "Replacement equalizer used on many 7,000 lb tandem trailers."
-  },
-  {
-    "sku": "176500",
-    "name": "3 X 9/16 U Bolt",
-    "slug": "176500-3-x-9-16-u-bolt",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "U-bolt for 3 in round axles with 9/16 in threads."
-  },
-  {
-    "sku": "1121",
-    "name": "U-Bolt 2 3/8 In Tube X 5 1/2",
-    "slug": "1121-u-bolt-2-3-8-in-tube-x-5-1-2",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "U-bolt for 2-3/8 in axle tubes, 5-1/2 in legs."
-  },
-  {
-    "sku": "1118",
-    "name": "U-Bolt 3 In Tube X 7",
-    "slug": "1118-u-bolt-3-in-tube-x-7",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "U-bolt for 3 in axle tubes with 7 in legs."
-  },
-  {
-    "sku": "TP238175",
-    "name": "Tie Plate 2.38 X 1.75",
-    "slug": "tp238175-tie-plate-2-38-x-1-75",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "Tie plate for 2.38 in axle tubes."
-  },
-  {
-    "sku": "00718700",
-    "name": "Wet Bolt 3",
-    "slug": "00718700-wet-bolt-3",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "3 in wet bolt for spring and hanger connections."
-  },
-  {
-    "sku": "2007T",
-    "name": "9/16-18 2 Way Rev Lock Nut Zinc",
-    "slug": "2007t-9-16-18-2-way-rev-lock-nut-zinc",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "Lock nut for 9/16-18 hanger and shackle hardware."
   },
   {
     "sku": "HGR-FRONT",
     "name": "Front Spring Hanger",
     "slug": "hgr-front-front-spring-hanger",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "hangers-and-axle-seats",
     "summary": "Weld-on front hanger for double-eye leaf springs."
   },
@@ -115,7 +67,7 @@
     "sku": "HGR-REAR",
     "name": "Rear Spring Hanger",
     "slug": "hgr-rear-rear-spring-hanger",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "hangers-and-axle-seats",
     "summary": "Weld-on rear hanger for slipper or double-eye springs."
   },
@@ -123,7 +75,7 @@
     "sku": "SEAT-238",
     "name": "Axle Seat 2-3/8 in",
     "slug": "seat-238-axle-seat-2-3-8-in",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "hangers-and-axle-seats",
     "summary": "Axle seat for 2-3/8 in round axles."
   },
@@ -131,23 +83,15 @@
     "sku": "SEAT-3",
     "name": "Axle Seat 3 in",
     "slug": "seat-3-axle-seat-3-in",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "hangers-and-axle-seats",
     "summary": "Axle seat for 3 in round axles."
-  },
-  {
-    "sku": "UB-SQUARE",
-    "name": "Square U-Bolt Kit",
-    "slug": "ub-square-square-u-bolt-kit",
-    "category": "axle-suspension",
-    "subcategory": "hangers-and-axle-seats",
-    "summary": "U-bolt kit for square-tube axles. Confirm tube size before ordering."
   },
   {
     "sku": "HGR-CTR",
     "name": "Center Hanger Tandem",
     "slug": "hgr-ctr-center-hanger-tandem",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "hangers-and-axle-seats",
     "summary": "Center hanger used with tandem equalizers."
   },
@@ -155,7 +99,7 @@
     "sku": "1311",
     "name": "Shackle Bolt 9/16-18 X 3",
     "slug": "1311-shackle-bolt-9-16-18-x-3",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "Grade hardware shackle bolt, 9/16-18 x 3 in."
   },
@@ -163,7 +107,7 @@
     "sku": "1811",
     "name": "2.25 Link",
     "slug": "1811-2-25-link",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "2.25 in shackle link for light-duty double-eye springs."
   },
@@ -171,7 +115,7 @@
     "sku": "18115",
     "name": "Shackle Link Medium 2-5/8",
     "slug": "18115-shackle-link-medium-2-5-8",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "Medium shackle link, 2-5/8 in center-to-center."
   },
@@ -179,7 +123,7 @@
     "sku": "BUSH-BRZ",
     "name": "Bushing Bronze",
     "slug": "bush-brz-bushing-bronze",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "Bronze spring bushing for shackle and hanger eyes."
   },
@@ -187,7 +131,7 @@
     "sku": "SHK-3",
     "name": "Shackle Link 3 in",
     "slug": "shk-3-shackle-link-3-in",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "3 in shackle link for heavier double-eye springs."
   },
@@ -195,7 +139,7 @@
     "sku": "SHK-BOLT58",
     "name": "Shackle Bolt 5/8",
     "slug": "shk-bolt58-shackle-bolt-5-8",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "5/8 in shackle bolt with greaseable option on many kits."
   },
@@ -203,7 +147,7 @@
     "sku": "NUT-REV",
     "name": "Reverse Lock Nut 9/16",
     "slug": "nut-rev-reverse-lock-nut-9-16",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "Two-way reverse lock nut for shackle bolts."
   },
@@ -211,7 +155,7 @@
     "sku": "SHK-KIT35",
     "name": "Shackle Kit 3,500 lb",
     "slug": "shk-kit35-shackle-kit-3-500-lb",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "shackle-links",
     "summary": "Link, bolt, nut, and bushing kit for 3,500 lb axles."
   },
@@ -219,7 +163,7 @@
     "sku": "389",
     "name": "1750# Wet Spindle",
     "slug": "389-1750-wet-spindle",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Wet (greaseable) spindle for 1,750 lb trailer axles."
   },
@@ -227,7 +171,7 @@
     "sku": "276",
     "name": "3500# Wet Spindle",
     "slug": "276-3500-wet-spindle",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Wet spindle for 3,500 lb trailer axles."
   },
@@ -235,7 +179,7 @@
     "sku": "SPD-52K",
     "name": "5,200 lb Wet Spindle",
     "slug": "spd-52k-5-200-lb-wet-spindle",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Replacement spindle for 5,200 lb axles."
   },
@@ -243,7 +187,7 @@
     "sku": "SPD-7K",
     "name": "7,000 lb Wet Spindle",
     "slug": "spd-7k-7-000-lb-wet-spindle",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Heavy-duty wet spindle for 7K axles."
   },
@@ -251,7 +195,7 @@
     "sku": "SPD-IDLER35",
     "name": "3,500 lb Idler Spindle",
     "slug": "spd-idler35-3-500-lb-idler-spindle",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Idler (non-brake) spindle, 3,500 lb class."
   },
@@ -259,7 +203,7 @@
     "sku": "SPD-EZ",
     "name": "Easy Lube Spindle 3.5K",
     "slug": "spd-ez-easy-lube-spindle-3-5k",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "spindles",
     "summary": "Easy-lube style spindle for common 3,500 lb axles."
   },
@@ -267,7 +211,7 @@
     "sku": "SW4B",
     "name": "Spring 25.25/1750#",
     "slug": "sw4b-spring-25-25-1750",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye leaf spring, 25.25 in, 1,750 lb."
   },
@@ -275,7 +219,7 @@
     "sku": "DE7224",
     "name": "Spring 25-1/4 2000# Dbl Eye",
     "slug": "de7224-spring-25-1-4-2000-dbl-eye",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye spring, 25-1/4 in, 2,000 lb."
   },
@@ -283,7 +227,7 @@
     "sku": "SW6",
     "name": "25.25 DBL Eye Spring 3500#",
     "slug": "sw6-25-25-dbl-eye-spring-3500",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye spring for 3,500 lb axles, 25.25 in."
   },
@@ -291,7 +235,7 @@
     "sku": "DE7225",
     "name": "Spring 25-1/4 2500# Dbl Eye",
     "slug": "de7225-spring-25-1-4-2500-dbl-eye",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye spring, 25-1/4 in, 2,500 lb."
   },
@@ -299,7 +243,7 @@
     "sku": "SW5",
     "name": "25.25 DBL Eye Spring 2950#",
     "slug": "sw5-25-25-dbl-eye-spring-2950",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye spring, 25.25 in, 2,950 lb."
   },
@@ -307,7 +251,7 @@
     "sku": "SH7232",
     "name": "Spring 26.5 x 2 3500# Slipper",
     "slug": "sh7232-spring-26-5-x-2-3500-slipper",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Slipper spring, 26.5 x 2 in, 3,500 lb."
   },
@@ -315,7 +259,7 @@
     "sku": "E5115",
     "name": "Spring 29.5/4300#",
     "slug": "e5115-spring-29-5-4300",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Longer leaf spring, 29.5 in, 4,300 lb."
   },
@@ -323,7 +267,7 @@
     "sku": "SH7233",
     "name": "Spring 4K 26.50 Long Slipper",
     "slug": "sh7233-spring-4k-26-50-long-slipper",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "4,000 lb slipper spring, 26.50 in long."
   },
@@ -331,7 +275,7 @@
     "sku": "SHE5226",
     "name": "Spring 26.5X2 3400# Slipper",
     "slug": "she5226-spring-26-5x2-3400-slipper",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Slipper spring 26.5 x 2 in, 3,400 lb."
   },
@@ -339,7 +283,7 @@
     "sku": "SP-5K-DE",
     "name": "Double Eye Spring 5,200#",
     "slug": "sp-5k-de-double-eye-spring-5-200",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Double-eye spring for 5,200 lb axles."
   },
@@ -347,7 +291,7 @@
     "sku": "SP-7K-SL",
     "name": "Slipper Spring 7,000#",
     "slug": "sp-7k-sl-slipper-spring-7-000",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Heavy-duty slipper spring for 7K axles."
   },
@@ -355,15 +299,31 @@
     "sku": "SP-1750-26",
     "name": "Spring 26 in 1750#",
     "slug": "sp-1750-26-spring-26-in-1750",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "springs",
     "summary": "Light-duty double-eye spring, 26 in."
+  },
+  {
+    "sku": "00718700",
+    "name": "Wet Bolt 3",
+    "slug": "00718700-wet-bolt-3",
+    "category": "axle-and-suspension",
+    "subcategory": "suspension-bushings-nuts-and-bolts",
+    "summary": "3 in wet bolt for spring and hanger connections."
+  },
+  {
+    "sku": "2007T",
+    "name": "9/16-18 2 Way Rev Lock Nut Zinc",
+    "slug": "2007t-9-16-18-2-way-rev-lock-nut-zinc",
+    "category": "axle-and-suspension",
+    "subcategory": "suspension-bushings-nuts-and-bolts",
+    "summary": "Lock nut for 9/16-18 hanger and shackle hardware."
   },
   {
     "sku": "SUS-35-DE",
     "name": "3,500 lb Double-Eye Suspension Kit",
     "slug": "sus-35-de-3-500-lb-double-eye-suspension-kit",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "suspension-kits",
     "summary": "Hangers, equalizer, links, and hardware for 3,500 lb tandem conversion."
   },
@@ -371,7 +331,7 @@
     "sku": "SUS-52-SL",
     "name": "5,200 lb Slipper Suspension Kit",
     "slug": "sus-52-sl-5-200-lb-slipper-suspension-kit",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "suspension-kits",
     "summary": "Slipper hanger kit for 5,200 lb axles."
   },
@@ -379,7 +339,7 @@
     "sku": "SUS-7K",
     "name": "7,000 lb Tandem Suspension Kit",
     "slug": "sus-7k-7-000-lb-tandem-suspension-kit",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "suspension-kits",
     "summary": "Heavy-duty tandem kit with equalizer and hangers."
   },
@@ -387,7 +347,7 @@
     "sku": "SUS-SINGLE35",
     "name": "Single Axle Hanger Kit 3.5K",
     "slug": "sus-single35-single-axle-hanger-kit-3-5k",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "suspension-kits",
     "summary": "Front and rear hangers plus U-bolts for a single 3,500 lb axle."
   },
@@ -395,799 +355,503 @@
     "sku": "SUS-TRI7",
     "name": "Triple Axle 7K Kit",
     "slug": "sus-tri7-triple-axle-7k-kit",
-    "category": "axle-suspension",
+    "category": "axle-and-suspension",
     "subcategory": "suspension-kits",
     "summary": "Hanger and equalizer package for triple 7K axles."
+  },
+  {
+    "sku": "176500",
+    "name": "3 X 9/16 U Bolt",
+    "slug": "176500-3-x-9-16-u-bolt",
+    "category": "axle-and-suspension",
+    "subcategory": "u-bolts-and-tie-plates",
+    "summary": "U-bolt for 3 in round axles with 9/16 in threads."
+  },
+  {
+    "sku": "1121",
+    "name": "U-Bolt 2 3/8 In Tube X 5 1/2",
+    "slug": "1121-u-bolt-2-3-8-in-tube-x-5-1-2",
+    "category": "axle-and-suspension",
+    "subcategory": "u-bolts-and-tie-plates",
+    "summary": "U-bolt for 2-3/8 in axle tubes, 5-1/2 in legs."
+  },
+  {
+    "sku": "1118",
+    "name": "U-Bolt 3 In Tube X 7",
+    "slug": "1118-u-bolt-3-in-tube-x-7",
+    "category": "axle-and-suspension",
+    "subcategory": "u-bolts-and-tie-plates",
+    "summary": "U-bolt for 3 in axle tubes with 7 in legs."
+  },
+  {
+    "sku": "TP238175",
+    "name": "Tie Plate 2.38 X 1.75",
+    "slug": "tp238175-tie-plate-2-38-x-1-75",
+    "category": "axle-and-suspension",
+    "subcategory": "u-bolts-and-tie-plates",
+    "summary": "Tie plate for 2.38 in axle tubes."
+  },
+  {
+    "sku": "UB-SQUARE",
+    "name": "Square U-Bolt Kit",
+    "slug": "ub-square-square-u-bolt-kit",
+    "category": "axle-and-suspension",
+    "subcategory": "u-bolts-and-tie-plates",
+    "summary": "U-bolt kit for square-tube axles. Confirm tube size before ordering."
   },
   {
     "sku": "25580",
     "name": "Bearing 1-3/4 Inner",
     "slug": "25580-bearing-1-3-4-inner",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Inner bearing, 1-3/4 in. Match with the correct race."
   },
   {
     "sku": "L44649",
     "name": "Bearing L44649",
     "slug": "l44649-bearing-l44649",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Common inner/outer bearing for 1,750–2,000 lb spindles."
   },
   {
     "sku": "L68149",
     "name": "Bearing L68149",
     "slug": "l68149-bearing-l68149",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Bearing used on many 3,500 lb trailer hubs."
   },
   {
     "sku": "15123",
     "name": "Bearing 15123",
     "slug": "15123-bearing-15123",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Inner bearing for popular 3,500–5,200 lb hubs."
   },
   {
     "sku": "25580-R",
     "name": "Race for 1-3/4 Inner",
     "slug": "25580-r-race-for-1-3-4-inner",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Matching race for 25580-style inner bearings."
   },
   {
     "sku": "L44610",
     "name": "Race L44610",
     "slug": "l44610-race-l44610",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Race for L44649 bearings."
   },
   {
     "sku": "LM67048",
     "name": "Bearing LM67048",
     "slug": "lm67048-bearing-lm67048",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Outer bearing found on several 5–7K hubs."
   },
   {
     "sku": "14125A",
     "name": "Bearing 14125A",
     "slug": "14125a-bearing-14125a",
-    "category": "brakes-hubs",
-    "subcategory": "bearing-and-race",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "bearings-and-races",
     "summary": "Heavy-duty inner bearing for 6–8K applications."
-  },
-  {
-    "sku": "K7137800",
-    "name": "Mag Kit Ovl 12-1/4 X 5 (15K)",
-    "slug": "k7137800-mag-kit-ovl-12-1-4-x-5-15k",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Magnet kit for 12-1/4 x 5 in 15K brakes."
-  },
-  {
-    "sku": "21026",
-    "name": "8K-15K Brake Magnet",
-    "slug": "21026-8k-15k-brake-magnet",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Replacement magnet for 8K–15K electric brakes."
-  },
-  {
-    "sku": "K7112500",
-    "name": "12 X 2 Magnet 7K",
-    "slug": "k7112500-12-x-2-magnet-7k",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Magnet for 12 x 2 in 7K electric brakes."
-  },
-  {
-    "sku": "K7132400",
-    "name": "Adjusting Spring & Screw 10 & 12",
-    "slug": "k7132400-adjusting-spring-and-screw-10-and-12",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Adjuster spring and screw for 10 and 12 in brakes."
-  },
-  {
-    "sku": "K7110400",
-    "name": "Magnet Kit 10 X 2-1/4 Brake",
-    "slug": "k7110400-magnet-kit-10-x-2-1-4-brake",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Magnet kit for 10 x 2-1/4 in electric brakes."
-  },
-  {
-    "sku": "K7112700",
-    "name": "12 X 2 Shoe 7K Electric",
-    "slug": "k7112700-12-x-2-shoe-7k-electric",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Brake shoe for 12 x 2 in 7K electric brakes."
-  },
-  {
-    "sku": "K7107705",
-    "name": "UFP Wheel End Kit",
-    "slug": "k7107705-ufp-wheel-end-kit",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "UFP wheel-end service kit."
-  },
-  {
-    "sku": "03305201",
-    "name": "Clamping Ring",
-    "slug": "03305201-clamping-ring",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Brake clamping ring."
-  },
-  {
-    "sku": "K7177302",
-    "name": "UFP RH Caliper",
-    "slug": "k7177302-ufp-rh-caliper",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "UFP right-hand hydraulic caliper."
-  },
-  {
-    "sku": "K7177301",
-    "name": "UFP LH Caliper",
-    "slug": "k7177301-ufp-lh-caliper",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "UFP left-hand hydraulic caliper."
-  },
-  {
-    "sku": "21025",
-    "name": "12 Brake Magnet",
-    "slug": "21025-12-brake-magnet",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Magnet for 12 in electric trailer brakes."
-  },
-  {
-    "sku": "21024",
-    "name": "10 Brake Magnet",
-    "slug": "21024-10-brake-magnet",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Magnet for 10 in electric trailer brakes."
-  },
-  {
-    "sku": "05406500",
-    "name": "Brake Cylinder RH",
-    "slug": "05406500-brake-cylinder-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Right-hand hydraulic brake cylinder."
-  },
-  {
-    "sku": "05406400",
-    "name": "Brake Cylinder LH",
-    "slug": "05406400-brake-cylinder-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Left-hand hydraulic brake cylinder."
-  },
-  {
-    "sku": "K7104600",
-    "name": "Brake Shoe & Lining 10 X 1-1/2",
-    "slug": "k7104600-brake-shoe-and-lining-10-x-1-1-2",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Shoe and lining for 10 x 1-1/2 in brakes."
-  },
-  {
-    "sku": "K7126700",
-    "name": "Shoe & Lining 10 Hydraulic",
-    "slug": "k7126700-shoe-and-lining-10-hydraulic",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Hydraulic brake shoe and lining, 10 in."
-  },
-  {
-    "sku": "K7149800",
-    "name": "Shoe & Lining 3-3/8 New RH",
-    "slug": "k7149800-shoe-and-lining-3-3-8-new-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Right-hand shoe and lining, 3-3/8 in."
-  },
-  {
-    "sku": "K7149900",
-    "name": "Shoe & Lining 3 3/8 New LH",
-    "slug": "k7149900-shoe-and-lining-3-3-8-new-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Left-hand shoe and lining, 3-3/8 in."
-  },
-  {
-    "sku": "9505",
-    "name": "Hydro Line Kit Tandem",
-    "slug": "9505-hydro-line-kit-tandem",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Hydraulic brake line kit for tandem axles."
-  },
-  {
-    "sku": "9504",
-    "name": "Hyd Line Kit Single",
-    "slug": "9504-hyd-line-kit-single",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Hydraulic brake line kit for a single axle."
-  },
-  {
-    "sku": "K568261",
-    "name": "Armature Plate",
-    "slug": "k568261-armature-plate",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Armature plate for electric brake magnets."
-  },
-  {
-    "sku": "K7139300",
-    "name": "Shoe & Line Free Backing",
-    "slug": "k7139300-shoe-and-line-free-backing",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Free-backing shoe and lining set."
-  },
-  {
-    "sku": "K7136300",
-    "name": "Brake Spring Kit 10 X 12 Dex",
-    "slug": "k7136300-brake-spring-kit-10-x-12-dex",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Spring kit for 10 and 12 in Dexter-style brakes."
-  },
-  {
-    "sku": "K7104700",
-    "name": "Shoe & Lining Kit 10 X 2-1/4",
-    "slug": "k7104700-shoe-and-lining-kit-10-x-2-1-4",
-    "category": "brakes-hubs",
-    "subcategory": "brake-parts",
-    "summary": "Complete shoe kit for 10 x 2-1/4 in brakes."
   },
   {
     "sku": "12X2-RH",
     "name": "12 X 2 Ele Brake RH",
     "slug": "12x2-rh-12-x-2-ele-brake-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 x 2 in electric brake, right hand."
   },
   {
     "sku": "12X2-LH",
     "name": "12 X 2 Ele Brake LH",
     "slug": "12x2-lh-12-x-2-ele-brake-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 x 2 in electric brake, left hand."
   },
   {
     "sku": "35R",
     "name": "10 X 2.25 Ele Brake R",
     "slug": "35r-10-x-2-25-ele-brake-r",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10 x 2.25 in electric brake, right."
   },
   {
     "sku": "35L",
     "name": "10 X 2.25 Ele Brake L",
     "slug": "35l-10-x-2-25-ele-brake-l",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10 x 2.25 in electric brake, left."
   },
   {
     "sku": "02318000",
     "name": "12 X 2 7000# LH",
     "slug": "02318000-12-x-2-7000-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 x 2 in 7,000 lb electric brake, left."
   },
   {
     "sku": "02318100",
     "name": "12 X 2 7000# RH",
     "slug": "02318100-12-x-2-7000-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 x 2 in 7,000 lb electric brake, right."
   },
   {
     "sku": "K2346400",
     "name": "7K Nev-R-Adjust Brakes LH",
     "slug": "k2346400-7k-nev-r-adjust-brakes-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "7K Nev-R-Adjust electric brake, left."
   },
   {
     "sku": "K2346500",
     "name": "7K Nev-R-Adjust Brakes RH",
     "slug": "k2346500-7k-nev-r-adjust-brakes-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "7K Nev-R-Adjust electric brake, right."
   },
   {
     "sku": "70LSA",
     "name": "12 Self Adjusting LH",
     "slug": "70lsa-12-self-adjusting-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 in self-adjusting electric brake, left."
   },
   {
     "sku": "70RSA",
     "name": "12 Self Adjusting RH",
     "slug": "70rsa-12-self-adjusting-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 in self-adjusting electric brake, right."
   },
   {
     "sku": "BK10L",
     "name": "Brake 3 3/8 10K LH",
     "slug": "bk10l-brake-3-3-8-10k-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10K electric brake, 3-3/8 in, left."
   },
   {
     "sku": "BK10R",
     "name": "Brake 3 3/8 10K RH",
     "slug": "bk10r-brake-3-3-8-10k-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10K electric brake, 3-3/8 in, right."
   },
   {
     "sku": "02343500",
     "name": "Brake 8K 3 3/8 4 Bolt RH",
     "slug": "02343500-brake-8k-3-3-8-4-bolt-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "8K brake, 3-3/8 in, 4-bolt, right."
   },
   {
     "sku": "02343400",
     "name": "Brake 8K 3 3/8 4 Bolt LH",
     "slug": "02343400-brake-8k-3-3-8-4-bolt-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "8K brake, 3-3/8 in, 4-bolt, left."
   },
   {
     "sku": "21004R",
     "name": "12 3-3/8 RH Ele Brake 4bolt",
     "slug": "21004r-12-3-3-8-rh-ele-brake-4bolt",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 in 3-3/8 electric brake, 4-bolt, right."
   },
   {
     "sku": "21004L",
     "name": "12 3-3/8 LH Ele Brake 4bolt",
     "slug": "21004l-12-3-3-8-lh-ele-brake-4bolt",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12 in 3-3/8 electric brake, 4-bolt, left."
   },
   {
     "sku": "02345100",
     "name": "Brake 12.25X3.375 RH Aftermarket",
     "slug": "02345100-brake-12-25x3-375-rh-aftermarket",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12.25 x 3.375 in aftermarket brake, right."
   },
   {
     "sku": "02345000",
     "name": "Brake 12.25X3.375 LH Aftermarket",
     "slug": "02345000-brake-12-25x3-375-lh-aftermarket",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "12.25 x 3.375 in aftermarket brake, left."
   },
   {
     "sku": "21015R",
     "name": "5 Brake RH",
     "slug": "21015r-5-brake-rh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "5 in electric brake, right hand."
   },
   {
     "sku": "21015L",
     "name": "5 Brake LH",
     "slug": "21015l-5-brake-lh",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "5 in electric brake, left hand."
   },
   {
     "sku": "02302600",
     "name": "Brake 10 X 2-1/4 LH Elec",
     "slug": "02302600-brake-10-x-2-1-4-lh-elec",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10 x 2-1/4 in electric brake, left."
   },
   {
     "sku": "02302700",
     "name": "Brake 10 X 2-1/4 RH Electric",
     "slug": "02302700-brake-10-x-2-1-4-rh-electric",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10 x 2-1/4 in electric brake, right."
   },
   {
     "sku": "K23429",
     "name": "12 1/4 x 2 1/2 7.2K",
     "slug": "k23429-12-1-4-x-2-1-2-7-2k",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "7.2K brake, 12-1/4 x 2-1/2 in."
   },
   {
     "sku": "K2352800",
     "name": "LH 10/12K Electric Brake",
     "slug": "k2352800-lh-10-12k-electric-brake",
-    "category": "brakes-hubs",
-    "subcategory": "brakes",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
     "summary": "10K/12K electric brake, left hand."
   },
   {
-    "sku": "00601000",
-    "name": "Nut 3/8 X 24 For Stud",
-    "slug": "00601000-nut-3-8-x-24-for-stud",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "3/8-24 nut for brake and hub studs."
+    "sku": "K7137800",
+    "name": "Mag Kit Ovl 12-1/4 X 5 (15K)",
+    "slug": "k7137800-mag-kit-ovl-12-1-4-x-5-15k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet kit for 12-1/4 x 5 in 15K brakes."
   },
   {
-    "sku": "HDB-BOLT38",
-    "name": "Brake Mounting Bolt 3/8",
-    "slug": "hdb-bolt38-brake-mounting-bolt-3-8",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "Mounting bolt for electric brake backing plates."
+    "sku": "21026",
+    "name": "8K-15K Brake Magnet",
+    "slug": "21026-8k-15k-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Replacement magnet for 8K–15K electric brakes."
   },
   {
-    "sku": "HDB-STUD",
-    "name": "Hub Stud Replacement",
-    "slug": "hdb-stud-hub-stud-replacement",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "Replacement hub stud. Confirm thread and knurl."
+    "sku": "K7112500",
+    "name": "12 X 2 Magnet 7K",
+    "slug": "k7112500-12-x-2-magnet-7k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 12 x 2 in 7K electric brakes."
   },
   {
-    "sku": "HDB-WASHER",
-    "name": "Spindle Washer",
-    "slug": "hdb-washer-spindle-washer",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "Spindle washer for castle-nut wheel ends."
+    "sku": "K7132400",
+    "name": "Adjusting Spring & Screw 10 & 12",
+    "slug": "k7132400-adjusting-spring-and-screw-10-and-12",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Adjuster spring and screw for 10 and 12 in brakes."
   },
   {
-    "sku": "HDB-PIN",
-    "name": "Cotter Pin Assortment",
-    "slug": "hdb-pin-cotter-pin-assortment",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "Cotter pins for spindle castle nuts."
+    "sku": "K7110400",
+    "name": "Magnet Kit 10 X 2-1/4 Brake",
+    "slug": "k7110400-magnet-kit-10-x-2-1-4-brake",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet kit for 10 x 2-1/4 in electric brakes."
   },
   {
-    "sku": "HDB-FLANGE",
-    "name": "Brake Flange Hardware Kit",
-    "slug": "hdb-flange-brake-flange-hardware-kit",
-    "category": "brakes-hubs",
-    "subcategory": "hdb-mounting-hardware",
-    "summary": "Hardware kit for welding or bolting brake flanges."
+    "sku": "K7112700",
+    "name": "12 X 2 Shoe 7K Electric",
+    "slug": "k7112700-12-x-2-shoe-7k-electric",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Brake shoe for 12 x 2 in 7K electric brakes."
   },
   {
-    "sku": "CAP-1750",
-    "name": "Dust Cap 1,750 lb",
-    "slug": "cap-1750-dust-cap-1-750-lb",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Grease dust cap for 1,750 lb hubs."
+    "sku": "K7107705",
+    "name": "UFP Wheel End Kit",
+    "slug": "k7107705-ufp-wheel-end-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP wheel-end service kit."
   },
   {
-    "sku": "CAP-3500",
-    "name": "Dust Cap 3,500 lb",
-    "slug": "cap-3500-dust-cap-3-500-lb",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Dust cap for common 5-lug 3,500 lb hubs."
+    "sku": "03305201",
+    "name": "Clamping Ring",
+    "slug": "03305201-clamping-ring",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Brake clamping ring."
   },
   {
-    "sku": "CAP-OIL8K",
-    "name": "Oil Cap 8K",
-    "slug": "cap-oil8k-oil-cap-8k",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Oil bath cap for 8K hub-and-drum assemblies."
+    "sku": "K7177302",
+    "name": "UFP RH Caliper",
+    "slug": "k7177302-ufp-rh-caliper",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP right-hand hydraulic caliper."
   },
   {
-    "sku": "CAP-EZ",
-    "name": "Easy Lube Cap",
-    "slug": "cap-ez-easy-lube-cap",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Cap for easy-lube / wet spindles."
+    "sku": "K7177301",
+    "name": "UFP LH Caliper",
+    "slug": "k7177301-ufp-lh-caliper",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP left-hand hydraulic caliper."
   },
   {
-    "sku": "HC-DOME",
-    "name": "Chrome Dome Hub Cover",
-    "slug": "hc-dome-chrome-dome-hub-cover",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Decorative chrome hub cover. Confirm diameter."
+    "sku": "21025",
+    "name": "12 Brake Magnet",
+    "slug": "21025-12-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 12 in electric trailer brakes."
   },
   {
-    "sku": "HC-OILWIN",
-    "name": "Oil Cap with Window",
-    "slug": "hc-oilwin-oil-cap-with-window",
-    "category": "brakes-hubs",
-    "subcategory": "hub-cover",
-    "summary": "Oil cap with sight window for oil-bath hubs."
+    "sku": "21024",
+    "name": "10 Brake Magnet",
+    "slug": "21024-10-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 10 in electric trailer brakes."
   },
   {
-    "sku": "10KIT",
-    "name": "10 in Drum Kit",
-    "slug": "10kit-10-in-drum-kit",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "10 in hub-and-drum kit for common 3,500 lb electric-brake axles."
+    "sku": "05406500",
+    "name": "Brake Cylinder RH",
+    "slug": "05406500-brake-cylinder-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Right-hand hydraulic brake cylinder."
   },
   {
-    "sku": "865KIT",
-    "name": "8 Bolt Hub Kit",
-    "slug": "865kit-8-bolt-hub-kit",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8-bolt hub kit. Confirm stud size and brake diameter."
+    "sku": "05406400",
+    "name": "Brake Cylinder LH",
+    "slug": "05406400-brake-cylinder-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Left-hand hydraulic brake cylinder."
   },
   {
-    "sku": "865916KIT",
-    "name": "8 Bolt Hub Kit 9/16",
-    "slug": "865916kit-8-bolt-hub-kit-9-16",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8-bolt hub kit with 9/16 in studs."
+    "sku": "K7104600",
+    "name": "Brake Shoe & Lining 10 X 1-1/2",
+    "slug": "k7104600-brake-shoe-and-lining-10-x-1-1-2",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Shoe and lining for 10 x 1-1/2 in brakes."
   },
   {
-    "sku": "655KIT",
-    "name": "H&D 6 Bolt Kit",
-    "slug": "655kit-handd-6-bolt-kit",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "6-bolt hub-and-drum kit."
+    "sku": "K7126700",
+    "name": "Shoe & Lining 10 Hydraulic",
+    "slug": "k7126700-shoe-and-lining-10-hydraulic",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake shoe and lining, 10 in."
   },
   {
-    "sku": "17-110",
-    "name": "Trailer Hub 1750#",
-    "slug": "17-110-trailer-hub-1750",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "Idler hub for 1,750 lb axles."
+    "sku": "K7149800",
+    "name": "Shoe & Lining 3-3/8 New RH",
+    "slug": "k7149800-shoe-and-lining-3-3-8-new-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Right-hand shoe and lining, 3-3/8 in."
   },
   {
-    "sku": "00828510",
-    "name": "Hub & Drum Oil 5/8 8K",
-    "slug": "00828510-hub-and-drum-oil-5-8-8k",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8K oil-bath hub and drum, 5/8 in studs."
+    "sku": "K7149900",
+    "name": "Shoe & Lining 3 3/8 New LH",
+    "slug": "k7149900-shoe-and-lining-3-3-8-new-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Left-hand shoe and lining, 3-3/8 in."
   },
   {
-    "sku": "843005",
-    "name": "H&D 9K-10K 865 Oil Pilot 4.75",
-    "slug": "843005-handd-9k-10k-865-oil-pilot-4-75",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "9K–10K hub and drum, 865 pattern, oil, 4.75 in pilot."
+    "sku": "9505",
+    "name": "Hydro Line Kit Tandem",
+    "slug": "9505-hydro-line-kit-tandem",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake line kit for tandem axles."
   },
   {
-    "sku": "00821904",
-    "name": "Hub & Drum 8 Bolt",
-    "slug": "00821904-hub-and-drum-8-bolt",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8-bolt hub-and-drum assembly."
+    "sku": "9504",
+    "name": "Hyd Line Kit Single",
+    "slug": "9504-hyd-line-kit-single",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake line kit for a single axle."
   },
   {
-    "sku": "655",
-    "name": "Brake Drum 12 6 Bolt",
-    "slug": "655-brake-drum-12-6-bolt",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "12 in brake drum, 6-bolt."
+    "sku": "K568261",
+    "name": "Armature Plate",
+    "slug": "k568261-armature-plate",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Armature plate for electric brake magnets."
   },
   {
-    "sku": "DRUM12-8",
-    "name": "Brake Drum 12 8 Bolt",
-    "slug": "drum12-8-brake-drum-12-8-bolt",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "12 in brake drum, 8-bolt."
+    "sku": "K7139300",
+    "name": "Shoe & Line Free Backing",
+    "slug": "k7139300-shoe-and-line-free-backing",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Free-backing shoe and lining set."
   },
   {
-    "sku": "865916",
-    "name": "Drum 7K 8 Bolt 9/16 Stud",
-    "slug": "865916-drum-7k-8-bolt-9-16-stud",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "7K drum, 8-bolt, 9/16 in studs."
+    "sku": "K7136300",
+    "name": "Brake Spring Kit 10 X 12 Dex",
+    "slug": "k7136300-brake-spring-kit-10-x-12-dex",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Spring kit for 10 and 12 in Dexter-style brakes."
   },
   {
-    "sku": "511655",
-    "name": "Hub Kit 1 1/16 5 Lug",
-    "slug": "511655-hub-kit-1-1-16-5-lug",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "5-lug hub kit, 1-1/16 in inner bearing."
-  },
-  {
-    "sku": "5450",
-    "name": "Brake Drum 10 5/45",
-    "slug": "5450-brake-drum-10-5-45",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "10 in drum, 5 on 4.5 in bolt circle."
-  },
-  {
-    "sku": "8K1225",
-    "name": "8K 12 1/4 x 2 1/2 5/8 Stud",
-    "slug": "8k1225-8k-12-1-4-x-2-1-2-5-8-stud",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8K hub and drum, 12-1/4 x 2-1/2, 5/8 in studs."
-  },
-  {
-    "sku": "9281",
-    "name": "12-15K Drum 12 1/4 x 5",
-    "slug": "9281-12-15k-drum-12-1-4-x-5",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "12K–15K drum, 12-1/4 x 5 in."
-  },
-  {
-    "sku": "821913",
-    "name": "Hub & Drum 8 Bolt 9/16",
-    "slug": "821913-hub-and-drum-8-bolt-9-16",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8-bolt hub and drum, 9/16 in studs."
-  },
-  {
-    "sku": "00824705",
-    "name": "Hub & Drum 3500# 545",
-    "slug": "00824705-hub-and-drum-3500-545",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "3,500 lb hub and drum, 5 on 4.5."
-  },
-  {
-    "sku": "D8K58P",
-    "name": "8K H&D 5/8 Stud",
-    "slug": "d8k58p-8k-handd-5-8-stud",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8K hub and drum, 5/8 in studs."
-  },
-  {
-    "sku": "91231",
-    "name": "10K GD Drum Only 12 1/4 x 3 3/8",
-    "slug": "91231-10k-gd-drum-only-12-1-4-x-3-3-8",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "10K drum only, 12-1/4 x 3-3/8."
-  },
-  {
-    "sku": "00902701",
-    "name": "Brake Drum 10K HD",
-    "slug": "00902701-brake-drum-10k-hd",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "Heavy-duty 10K brake drum."
-  },
-  {
-    "sku": "D8K580",
-    "name": "8K H&D 5/8 Stud Oil",
-    "slug": "d8k580-8k-handd-5-8-stud-oil",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "8K oil-style hub and drum, 5/8 stud."
-  },
-  {
-    "sku": "821918",
-    "name": "H-D 7K 865 5/8 Stud",
-    "slug": "821918-h-d-7k-865-5-8-stud",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "7K hub and drum, 865 pattern, 5/8 in studs."
-  },
-  {
-    "sku": "00902801",
-    "name": "Brake Drum 5X12",
-    "slug": "00902801-brake-drum-5x12",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "Brake drum, 5-lug x 12 in."
-  },
-  {
-    "sku": "9441",
-    "name": "10K GD Drum 12 1/4 x 3 3/8",
-    "slug": "9441-10k-gd-drum-12-1-4-x-3-3-8",
-    "category": "brakes-hubs",
-    "subcategory": "hubs-and-drums",
-    "summary": "10K drum, 12-1/4 x 3-3/8 in."
-  },
-  {
-    "sku": "K7138700",
-    "name": "Oil Seal 8 9 10K 2.25 X 3.88",
-    "slug": "k7138700-oil-seal-8-9-10k-2-25-x-3-88",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Oil seal for 8K–10K hubs, 2.25 x 3.88 in."
-  },
-  {
-    "sku": "SEAL-3500",
-    "name": "Grease Seal 3,500 lb",
-    "slug": "seal-3500-grease-seal-3-500-lb",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Standard grease seal for many 3,500 lb hubs."
-  },
-  {
-    "sku": "SEAL-1750",
-    "name": "Grease Seal 1,750 lb",
-    "slug": "seal-1750-grease-seal-1-750-lb",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Grease seal for 1,750 lb hubs."
-  },
-  {
-    "sku": "SEAL-7K",
-    "name": "Grease Seal 7K",
-    "slug": "seal-7k-grease-seal-7k",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Seal for 7,000 lb hub-and-drum assemblies."
-  },
-  {
-    "sku": "SEAL-DOUBLE",
-    "name": "Double Lip Grease Seal",
-    "slug": "seal-double-double-lip-grease-seal",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Double-lip seal for wet and dusty service."
-  },
-  {
-    "sku": "CAP-SEALKIT",
-    "name": "Seal and Cap Service Kit",
-    "slug": "cap-sealkit-seal-and-cap-service-kit",
-    "category": "brakes-hubs",
-    "subcategory": "seals-and-caps",
-    "summary": "Grease seal plus matching dust cap."
+    "sku": "K7104700",
+    "name": "Shoe & Lining Kit 10 X 2-1/4",
+    "slug": "k7104700-shoe-and-lining-kit-10-x-2-1-4",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Complete shoe kit for 10 x 2-1/4 in brakes."
   },
   {
     "sku": "GR-TUBE",
     "name": "Trailer Wheel Bearing Grease",
     "slug": "gr-tube-trailer-wheel-bearing-grease",
-    "category": "brakes-hubs",
+    "category": "hub-drum-and-brakes",
     "subcategory": "grease-guns-grease",
     "summary": "High-temperature grease formulated for trailer wheel bearings."
   },
@@ -1195,7 +859,7 @@
     "sku": "GR-GUN",
     "name": "Lever Grease Gun",
     "slug": "gr-gun-lever-grease-gun",
-    "category": "brakes-hubs",
+    "category": "hub-drum-and-brakes",
     "subcategory": "grease-guns-grease",
     "summary": "Standard lever grease gun for zerk fittings and packing."
   },
@@ -1203,7 +867,7 @@
     "sku": "GR-PACKER",
     "name": "Bearing Packer",
     "slug": "gr-packer-bearing-packer",
-    "category": "brakes-hubs",
+    "category": "hub-drum-and-brakes",
     "subcategory": "grease-guns-grease",
     "summary": "Hand bearing packer for cleaning and repacking hubs."
   },
@@ -1211,7 +875,7 @@
     "sku": "GR-EZ",
     "name": "Easy Lube Grease",
     "slug": "gr-ez-easy-lube-grease",
-    "category": "brakes-hubs",
+    "category": "hub-drum-and-brakes",
     "subcategory": "grease-guns-grease",
     "summary": "Grease suitable for easy-lube / wet spindles."
   },
@@ -1219,9 +883,345 @@
     "sku": "GR-MARINE",
     "name": "Marine Trailer Grease",
     "slug": "gr-marine-marine-trailer-grease",
-    "category": "brakes-hubs",
+    "category": "hub-drum-and-brakes",
     "subcategory": "grease-guns-grease",
     "summary": "Water-resistant grease for boat trailers."
+  },
+  {
+    "sku": "00601000",
+    "name": "Nut 3/8 X 24 For Stud",
+    "slug": "00601000-nut-3-8-x-24-for-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "3/8-24 nut for brake and hub studs."
+  },
+  {
+    "sku": "HDB-BOLT38",
+    "name": "Brake Mounting Bolt 3/8",
+    "slug": "hdb-bolt38-brake-mounting-bolt-3-8",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Mounting bolt for electric brake backing plates."
+  },
+  {
+    "sku": "HDB-STUD",
+    "name": "Hub Stud Replacement",
+    "slug": "hdb-stud-hub-stud-replacement",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Replacement hub stud. Confirm thread and knurl."
+  },
+  {
+    "sku": "HDB-WASHER",
+    "name": "Spindle Washer",
+    "slug": "hdb-washer-spindle-washer",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Spindle washer for castle-nut wheel ends."
+  },
+  {
+    "sku": "HDB-PIN",
+    "name": "Cotter Pin Assortment",
+    "slug": "hdb-pin-cotter-pin-assortment",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Cotter pins for spindle castle nuts."
+  },
+  {
+    "sku": "HDB-FLANGE",
+    "name": "Brake Flange Hardware Kit",
+    "slug": "hdb-flange-brake-flange-hardware-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Hardware kit for welding or bolting brake flanges."
+  },
+  {
+    "sku": "CAP-1750",
+    "name": "Dust Cap 1,750 lb",
+    "slug": "cap-1750-dust-cap-1-750-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Grease dust cap for 1,750 lb hubs."
+  },
+  {
+    "sku": "CAP-3500",
+    "name": "Dust Cap 3,500 lb",
+    "slug": "cap-3500-dust-cap-3-500-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Dust cap for common 5-lug 3,500 lb hubs."
+  },
+  {
+    "sku": "CAP-OIL8K",
+    "name": "Oil Cap 8K",
+    "slug": "cap-oil8k-oil-cap-8k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Oil bath cap for 8K hub-and-drum assemblies."
+  },
+  {
+    "sku": "CAP-EZ",
+    "name": "Easy Lube Cap",
+    "slug": "cap-ez-easy-lube-cap",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Cap for easy-lube / wet spindles."
+  },
+  {
+    "sku": "HC-DOME",
+    "name": "Chrome Dome Hub Cover",
+    "slug": "hc-dome-chrome-dome-hub-cover",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Decorative chrome hub cover. Confirm diameter."
+  },
+  {
+    "sku": "HC-OILWIN",
+    "name": "Oil Cap with Window",
+    "slug": "hc-oilwin-oil-cap-with-window",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Oil cap with sight window for oil-bath hubs."
+  },
+  {
+    "sku": "10KIT",
+    "name": "10 in Drum Kit",
+    "slug": "10kit-10-in-drum-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "10 in hub-and-drum kit for common 3,500 lb electric-brake axles."
+  },
+  {
+    "sku": "865KIT",
+    "name": "8 Bolt Hub Kit",
+    "slug": "865kit-8-bolt-hub-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8-bolt hub kit. Confirm stud size and brake diameter."
+  },
+  {
+    "sku": "865916KIT",
+    "name": "8 Bolt Hub Kit 9/16",
+    "slug": "865916kit-8-bolt-hub-kit-9-16",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8-bolt hub kit with 9/16 in studs."
+  },
+  {
+    "sku": "655KIT",
+    "name": "H&D 6 Bolt Kit",
+    "slug": "655kit-handd-6-bolt-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "6-bolt hub-and-drum kit."
+  },
+  {
+    "sku": "17-110",
+    "name": "Trailer Hub 1750#",
+    "slug": "17-110-trailer-hub-1750",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "Idler hub for 1,750 lb axles."
+  },
+  {
+    "sku": "00828510",
+    "name": "Hub & Drum Oil 5/8 8K",
+    "slug": "00828510-hub-and-drum-oil-5-8-8k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8K oil-bath hub and drum, 5/8 in studs."
+  },
+  {
+    "sku": "843005",
+    "name": "H&D 9K-10K 865 Oil Pilot 4.75",
+    "slug": "843005-handd-9k-10k-865-oil-pilot-4-75",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "9K–10K hub and drum, 865 pattern, oil, 4.75 in pilot."
+  },
+  {
+    "sku": "00821904",
+    "name": "Hub & Drum 8 Bolt",
+    "slug": "00821904-hub-and-drum-8-bolt",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8-bolt hub-and-drum assembly."
+  },
+  {
+    "sku": "655",
+    "name": "Brake Drum 12 6 Bolt",
+    "slug": "655-brake-drum-12-6-bolt",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "12 in brake drum, 6-bolt."
+  },
+  {
+    "sku": "DRUM12-8",
+    "name": "Brake Drum 12 8 Bolt",
+    "slug": "drum12-8-brake-drum-12-8-bolt",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "12 in brake drum, 8-bolt."
+  },
+  {
+    "sku": "865916",
+    "name": "Drum 7K 8 Bolt 9/16 Stud",
+    "slug": "865916-drum-7k-8-bolt-9-16-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "7K drum, 8-bolt, 9/16 in studs."
+  },
+  {
+    "sku": "511655",
+    "name": "Hub Kit 1 1/16 5 Lug",
+    "slug": "511655-hub-kit-1-1-16-5-lug",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "5-lug hub kit, 1-1/16 in inner bearing."
+  },
+  {
+    "sku": "5450",
+    "name": "Brake Drum 10 5/45",
+    "slug": "5450-brake-drum-10-5-45",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "10 in drum, 5 on 4.5 in bolt circle."
+  },
+  {
+    "sku": "8K1225",
+    "name": "8K 12 1/4 x 2 1/2 5/8 Stud",
+    "slug": "8k1225-8k-12-1-4-x-2-1-2-5-8-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8K hub and drum, 12-1/4 x 2-1/2, 5/8 in studs."
+  },
+  {
+    "sku": "9281",
+    "name": "12-15K Drum 12 1/4 x 5",
+    "slug": "9281-12-15k-drum-12-1-4-x-5",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "12K–15K drum, 12-1/4 x 5 in."
+  },
+  {
+    "sku": "821913",
+    "name": "Hub & Drum 8 Bolt 9/16",
+    "slug": "821913-hub-and-drum-8-bolt-9-16",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8-bolt hub and drum, 9/16 in studs."
+  },
+  {
+    "sku": "00824705",
+    "name": "Hub & Drum 3500# 545",
+    "slug": "00824705-hub-and-drum-3500-545",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "3,500 lb hub and drum, 5 on 4.5."
+  },
+  {
+    "sku": "D8K58P",
+    "name": "8K H&D 5/8 Stud",
+    "slug": "d8k58p-8k-handd-5-8-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8K hub and drum, 5/8 in studs."
+  },
+  {
+    "sku": "91231",
+    "name": "10K GD Drum Only 12 1/4 x 3 3/8",
+    "slug": "91231-10k-gd-drum-only-12-1-4-x-3-3-8",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "10K drum only, 12-1/4 x 3-3/8."
+  },
+  {
+    "sku": "00902701",
+    "name": "Brake Drum 10K HD",
+    "slug": "00902701-brake-drum-10k-hd",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "Heavy-duty 10K brake drum."
+  },
+  {
+    "sku": "D8K580",
+    "name": "8K H&D 5/8 Stud Oil",
+    "slug": "d8k580-8k-handd-5-8-stud-oil",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "8K oil-style hub and drum, 5/8 stud."
+  },
+  {
+    "sku": "821918",
+    "name": "H-D 7K 865 5/8 Stud",
+    "slug": "821918-h-d-7k-865-5-8-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "7K hub and drum, 865 pattern, 5/8 in studs."
+  },
+  {
+    "sku": "00902801",
+    "name": "Brake Drum 5X12",
+    "slug": "00902801-brake-drum-5x12",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "Brake drum, 5-lug x 12 in."
+  },
+  {
+    "sku": "9441",
+    "name": "10K GD Drum 12 1/4 x 3 3/8",
+    "slug": "9441-10k-gd-drum-12-1-4-x-3-3-8",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hubs-and-drums",
+    "summary": "10K drum, 12-1/4 x 3-3/8 in."
+  },
+  {
+    "sku": "K7138700",
+    "name": "Oil Seal 8 9 10K 2.25 X 3.88",
+    "slug": "k7138700-oil-seal-8-9-10k-2-25-x-3-88",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Oil seal for 8K–10K hubs, 2.25 x 3.88 in."
+  },
+  {
+    "sku": "SEAL-3500",
+    "name": "Grease Seal 3,500 lb",
+    "slug": "seal-3500-grease-seal-3-500-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Standard grease seal for many 3,500 lb hubs."
+  },
+  {
+    "sku": "SEAL-1750",
+    "name": "Grease Seal 1,750 lb",
+    "slug": "seal-1750-grease-seal-1-750-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Grease seal for 1,750 lb hubs."
+  },
+  {
+    "sku": "SEAL-7K",
+    "name": "Grease Seal 7K",
+    "slug": "seal-7k-grease-seal-7k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Seal for 7,000 lb hub-and-drum assemblies."
+  },
+  {
+    "sku": "SEAL-DOUBLE",
+    "name": "Double Lip Grease Seal",
+    "slug": "seal-double-double-lip-grease-seal",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Double-lip seal for wet and dusty service."
+  },
+  {
+    "sku": "CAP-SEALKIT",
+    "name": "Seal and Cap Service Kit",
+    "slug": "cap-sealkit-seal-and-cap-service-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "seals-and-caps",
+    "summary": "Grease seal plus matching dust cap."
   },
   {
     "sku": "36618",
@@ -1416,6 +1416,70 @@
     "summary": "LED kit sized for enclosed cargo trailers."
   },
   {
+    "sku": "22550",
+    "name": "2.5 LED Red",
+    "slug": "22550-2-5-led-red",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2.5 in red LED clearance/marker lamp."
+  },
+  {
+    "sku": "522A",
+    "name": "Amber LED 3/4",
+    "slug": "522a-amber-led-3-4",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "3/4 in amber LED marker."
+  },
+  {
+    "sku": "512R",
+    "name": "Red LED 3/4",
+    "slug": "512r-red-led-3-4",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "3/4 in red LED marker."
+  },
+  {
+    "sku": "8892240",
+    "name": "Amber Strobe Thin Lite",
+    "slug": "8892240-amber-strobe-thin-lite",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Thin amber strobe/marker light."
+  },
+  {
+    "sku": "751031KR",
+    "name": "2 LED Round Red",
+    "slug": "751031kr-2-led-round-red",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2 in round red LED marker."
+  },
+  {
+    "sku": "MKR-AMBER25",
+    "name": "2.5 LED Amber",
+    "slug": "mkr-amber25-2-5-led-amber",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "2.5 in amber LED clearance lamp."
+  },
+  {
+    "sku": "MKR-SIDE",
+    "name": "Sidemarker LED",
+    "slug": "mkr-side-sidemarker-led",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Sidemarker LED, red or amber by lens."
+  },
+  {
+    "sku": "MKR-THIN",
+    "name": "Thin Line Clearance LED",
+    "slug": "mkr-thin-thin-line-clearance-led",
+    "category": "lighting",
+    "subcategory": "markers-clearance-lights",
+    "summary": "Low-profile clearance LED for enclosed trailers."
+  },
+  {
     "sku": "PORCH-LED",
     "name": "LED RV Porch Light",
     "slug": "porch-led-led-rv-porch-light",
@@ -1576,74 +1640,18 @@
     "summary": "Temporary towing lights with suction mounts."
   },
   {
-    "sku": "22550",
-    "name": "2.5 LED Red",
-    "slug": "22550-2-5-led-red",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "2.5 in red LED clearance/marker lamp."
-  },
-  {
-    "sku": "522A",
-    "name": "Amber LED 3/4",
-    "slug": "522a-amber-led-3-4",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "3/4 in amber LED marker."
-  },
-  {
-    "sku": "512R",
-    "name": "Red LED 3/4",
-    "slug": "512r-red-led-3-4",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "3/4 in red LED marker."
-  },
-  {
-    "sku": "8892240",
-    "name": "Amber Strobe Thin Lite",
-    "slug": "8892240-amber-strobe-thin-lite",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "Thin amber strobe/marker light."
-  },
-  {
-    "sku": "751031KR",
-    "name": "2 LED Round Red",
-    "slug": "751031kr-2-led-round-red",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "2 in round red LED marker."
-  },
-  {
-    "sku": "MKR-AMBER25",
-    "name": "2.5 LED Amber",
-    "slug": "mkr-amber25-2-5-led-amber",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "2.5 in amber LED clearance lamp."
-  },
-  {
-    "sku": "MKR-SIDE",
-    "name": "Sidemarker LED",
-    "slug": "mkr-side-sidemarker-led",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "Sidemarker LED, red or amber by lens."
-  },
-  {
-    "sku": "MKR-THIN",
-    "name": "Thin Line Clearance LED",
-    "slug": "mkr-thin-thin-line-clearance-led",
-    "category": "lighting",
-    "subcategory": "markers-clearance-lights",
-    "summary": "Low-profile clearance LED for enclosed trailers."
+    "sku": "WINCH-2K",
+    "name": "Utility Winch 2,000 lb",
+    "slug": "winch-2k-utility-winch-2-000-lb",
+    "category": "marine-accessories",
+    "subcategory": "winches",
+    "summary": "2,000 lb utility winch with strap."
   },
   {
     "sku": "TUBE-20575",
     "name": "Inner Tube ST205/75",
     "slug": "tube-20575-inner-tube-st205-75",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "inner-tubes",
     "summary": "Inner tube for ST205/75 trailer tires."
   },
@@ -1651,7 +1659,7 @@
     "sku": "TUBE-17580",
     "name": "Inner Tube ST175/80",
     "slug": "tube-17580-inner-tube-st175-80",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "inner-tubes",
     "summary": "Inner tube for ST175/80-13 tires."
   },
@@ -1659,7 +1667,7 @@
     "sku": "TUBE-22575",
     "name": "Inner Tube ST225/75",
     "slug": "tube-22575-inner-tube-st225-75",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "inner-tubes",
     "summary": "Inner tube for ST225/75 trailer tires."
   },
@@ -1667,7 +1675,7 @@
     "sku": "TUBE-4808",
     "name": "Inner Tube 4.80-8",
     "slug": "tube-4808-inner-tube-4-80-8",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "inner-tubes",
     "summary": "Tube for 4.80-8 trailer tires."
   },
@@ -1675,7 +1683,7 @@
     "sku": "TUBE-5708",
     "name": "Inner Tube 5.70-8",
     "slug": "tube-5708-inner-tube-5-70-8",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "inner-tubes",
     "summary": "Tube for 5.70-8 trailer tires."
   },
@@ -1683,223 +1691,223 @@
     "sku": "1388449",
     "name": "ST205/75R Load Range D Assembly",
     "slug": "1388449-st205-75r-load-range-d-assembly",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "Mounted ST205/75R load range D tire and wheel."
   },
   {
     "sku": "1388456",
     "name": "ST225/75R 15 D 6H Spoke White Stripe",
     "slug": "1388456-st225-75r-15-d-6h-spoke-white-stripe",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST225/75R15 D on 6-hole spoke wheel, white stripe."
   },
   {
     "sku": "A16R80G8",
     "name": "235-80R16 TW Grey #4080",
     "slug": "a16r80g8-235-80r16-tw-grey-4080",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "235/80R16 tire and grey wheel assembly."
   },
   {
     "sku": "A16RTK8SMM",
     "name": "ST235 80R16E 8 Lug Tire & Wheel",
     "slug": "a16rtk8smm-st235-80r16e-8-lug-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST235/80R16E on 8-lug wheel."
   },
   {
     "sku": "32068",
     "name": "ST 205/75 R 14 C 5H Spoke White",
     "slug": "32068-st-205-75-r-14-c-5h-spoke-white",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST205/75R14 C on 5-hole white spoke."
   },
   {
     "sku": "33422",
     "name": "205 75R15 Aluminum Tire & Wheel",
     "slug": "33422-205-75r15-aluminum-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST205/75R15 mounted on aluminum wheel."
   },
   {
     "sku": "34903",
     "name": "Tire/Wheel 235/80/16 8 Lug White",
     "slug": "34903-tire-wheel-235-80-16-8-lug-white",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "235/80R16 on 8-lug white wheel."
   },
   {
     "sku": "ND4400",
     "name": "Tire & Wheel 235-85-R16 8 Lug",
     "slug": "nd4400-tire-and-wheel-235-85-r16-8-lug",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "235/85R16 tire and 8-lug wheel, 4,400 lb class."
   },
   {
     "sku": "1388206",
     "name": "215/60-8C 5H White K399 Tire/Wheel",
     "slug": "1388206-215-60-8c-5h-white-k399-tire-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "215/60-8C on 5-hole white wheel."
   },
   {
     "sku": "32409",
     "name": "ST205/75R15 5on5 Tire and Wheel",
     "slug": "32409-st205-75r15-5on5-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST205/75R15 on 5-on-5 wheel."
   },
   {
     "sku": "3H490",
     "name": "20.5/65-10E 5 Hole Gal Tire & Wheel",
     "slug": "3h490-20-5-65-10e-5-hole-gal-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "20.5/65-10E on 5-hole galvanized wheel."
   },
   {
     "sku": "1388444",
     "name": "ST 175/80 R 13 C 5H Spoke White T/W",
     "slug": "1388444-st-175-80-r-13-c-5h-spoke-white-t-w",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST175/80R13 C on 5-hole white spoke."
   },
   {
     "sku": "1388248",
     "name": "20.5/65-10C 5H White K399 Tire/Wheel",
     "slug": "1388248-20-5-65-10c-5h-white-k399-tire-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "20.5/65-10C mounted assembly."
   },
   {
     "sku": "21575R175TW",
     "name": "215/75R17.5 Tire and Wheel",
     "slug": "21575r175tw-215-75r17-5-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "215/75R17.5 commercial trailer assembly."
   },
   {
     "sku": "1388437",
     "name": "ST205/75D15 5H Spoke Tire/Wheel",
     "slug": "1388437-st205-75d15-5h-spoke-tire-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST205/75D15 bias on 5-hole spoke."
   },
   {
     "sku": "1388454",
     "name": "ST225/75R 15 D 5H Spoke White Stripe",
     "slug": "1388454-st225-75r-15-d-5h-spoke-white-stripe",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST225/75R15 D on 5-hole spoke, white stripe."
   },
   {
     "sku": "1388433",
     "name": "ST175/80D13 5H Spoke Tire/Wheel",
     "slug": "1388433-st175-80d13-5h-spoke-tire-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST175/80D13 on 5-hole spoke."
   },
   {
     "sku": "ALUM235",
     "name": "235 85R16 Aluminum T&W 4400 lb",
     "slug": "alum235-235-85r16-aluminum-tandw-4400-lb",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "235/85R16 aluminum tire-and-wheel, 4,400 lb."
   },
   {
     "sku": "31218",
     "name": "ST145/R12 E Range Tire & Wheel",
     "slug": "31218-st145-r12-e-range-tire-and-wheel",
-    "category": "wheel-tire",
-    "subcategory": "mounted-tire-and-wheel",
+    "category": "tires-and-wheels",
+    "subcategory": "mounted-tires-and-wheels",
     "summary": "ST145R12 E-range mounted assembly."
   },
   {
     "sku": "PRG235R16",
     "name": "235-85R16 Tire 4400",
     "slug": "prg235r16-235-85r16-tire-4400",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST235/85R16 tire only, 4,400 lb rated."
   },
   {
     "sku": "80235",
     "name": "235-80R16 Tire",
     "slug": "80235-235-80r16-tire",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST235/80R16 tire only."
   },
   {
     "sku": "TR225LRE",
     "name": "ST225 75R15 Tire Only",
     "slug": "tr225lre-st225-75r15-tire-only",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST225/75R15 tire, unmounted."
   },
   {
     "sku": "TR20515D",
     "name": "ST205 75R15 Tire Only",
     "slug": "tr20515d-st205-75r15-tire-only",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST205/75R15 tire, unmounted."
   },
   {
     "sku": "33150",
     "name": "8-14.5 LTG",
     "slug": "33150-8-14-5-ltg",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "8-14.5 LTG trailer tire."
   },
   {
     "sku": "TR20514",
     "name": "ST205/75R14 Tire Only",
     "slug": "tr20514-st205-75r14-tire-only",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST205/75R14 special trailer tire."
   },
   {
     "sku": "TR17513",
     "name": "ST175/80R13 Tire Only",
     "slug": "tr17513-st175-80r13-tire-only",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST175/80R13 tire for lighter trailers."
   },
   {
     "sku": "TR22516",
     "name": "ST225/75R16 Tire Only",
     "slug": "tr22516-st225-75r16-tire-only",
-    "category": "wheel-tire",
-    "subcategory": "tire-only",
+    "category": "tires-and-wheels",
+    "subcategory": "tires-only",
     "summary": "ST225/75R16 tire only."
   },
   {
     "sku": "LUG-12MM",
     "name": "Lug Nut 12 mm",
     "slug": "lug-12mm-lug-nut-12-mm",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "12 mm lug nut for many trailer wheels."
   },
@@ -1907,7 +1915,7 @@
     "sku": "LUG-12-CONE",
     "name": "Cone Lug Nut 1/2",
     "slug": "lug-12-cone-cone-lug-nut-1-2",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "1/2 in cone lug nut."
   },
@@ -1915,7 +1923,7 @@
     "sku": "LUG-916",
     "name": "Lug Nut 9/16",
     "slug": "lug-916-lug-nut-9-16",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "9/16 in lug nut for 8-lug wheels."
   },
@@ -1923,7 +1931,7 @@
     "sku": "CAP-CENTER",
     "name": "Wheel Center Cap",
     "slug": "cap-center-wheel-center-cap",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "Center cap. Confirm diameter and retention style."
   },
@@ -1931,7 +1939,7 @@
     "sku": "WRENCH-LUG",
     "name": "Trailer Lug Wrench",
     "slug": "wrench-lug-trailer-lug-wrench",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "Lug wrench sized for common trailer nuts."
   },
@@ -1939,7 +1947,7 @@
     "sku": "WASHER-LUG",
     "name": "Lug Nut Washer",
     "slug": "washer-lug-lug-nut-washer",
-    "category": "wheel-tire",
+    "category": "tires-and-wheels",
     "subcategory": "wheel-accessories",
     "summary": "Washer used on some mag / aluminum wheels."
   },
@@ -1947,247 +1955,63 @@
     "sku": "WH-15-5-WHITE",
     "name": "15 in 5-Lug White Spoke Wheel",
     "slug": "wh-15-5-white-15-in-5-lug-white-spoke-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "15 in white spoke trailer wheel, 5-lug."
   },
   {
     "sku": "WH-15-6",
     "name": "15 in 6-Lug Trailer Wheel",
     "slug": "wh-15-6-15-in-6-lug-trailer-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "15 in 6-lug steel trailer wheel."
   },
   {
     "sku": "WH-16-8",
     "name": "16 in 8-Lug White Wheel",
     "slug": "wh-16-8-16-in-8-lug-white-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "16 in 8-lug white steel wheel."
   },
   {
     "sku": "WH-14-5",
     "name": "14 in 5-Lug White Spoke",
     "slug": "wh-14-5-14-in-5-lug-white-spoke",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "14 in 5-lug white spoke wheel."
   },
   {
     "sku": "WH-13-5",
     "name": "13 in 5-Lug Trailer Wheel",
     "slug": "wh-13-5-13-in-5-lug-trailer-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "13 in 5-lug wheel for lighter trailers."
   },
   {
     "sku": "WH-ALUM15",
     "name": "15 in Aluminum Trailer Wheel",
     "slug": "wh-alum15-15-in-aluminum-trailer-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "15 in aluminum trailer wheel. Confirm offset and load."
   },
   {
     "sku": "WH-GAL10",
     "name": "10 in Galvanized Wheel",
     "slug": "wh-gal10-10-in-galvanized-wheel",
-    "category": "wheel-tire",
-    "subcategory": "wheel-only",
+    "category": "tires-and-wheels",
+    "subcategory": "wheels-only",
     "summary": "Galvanized 10 in wheel for boat trailers."
-  },
-  {
-    "sku": "BC-PROP",
-    "name": "Proportional Brake Controller",
-    "slug": "bc-prop-proportional-brake-controller",
-    "category": "towing",
-    "subcategory": "brake-controllers",
-    "summary": "Proportional electric brake controller for 1–4 axle trailers."
-  },
-  {
-    "sku": "BC-TIME",
-    "name": "Time-Based Brake Controller",
-    "slug": "bc-time-time-based-brake-controller",
-    "category": "towing",
-    "subcategory": "brake-controllers",
-    "summary": "Time-delayed brake controller. Straightforward install."
-  },
-  {
-    "sku": "BC-COMPACT",
-    "name": "Compact Dash Brake Controller",
-    "slug": "bc-compact-compact-dash-brake-controller",
-    "category": "towing",
-    "subcategory": "brake-controllers",
-    "summary": "Low-profile controller for limited dash space."
-  },
-  {
-    "sku": "BC-HARNESS",
-    "name": "Brake Controller Harness",
-    "slug": "bc-harness-brake-controller-harness",
-    "category": "towing",
-    "subcategory": "brake-controllers",
-    "summary": "Plug-in harness. Vehicle-specific — call with year/make/model."
-  },
-  {
-    "sku": "BC-HEAVY",
-    "name": "Heavy-Duty Brake Controller",
-    "slug": "bc-heavy-heavy-duty-brake-controller",
-    "category": "towing",
-    "subcategory": "brake-controllers",
-    "summary": "Controller suited to heavier multi-axle trailers."
-  },
-  {
-    "sku": "BA-KIT",
-    "name": "Breakaway Kit with Battery",
-    "slug": "ba-kit-breakaway-kit-with-battery",
-    "category": "towing",
-    "subcategory": "breakaway-kits-and-parts",
-    "summary": "Complete breakaway switch, battery, and box."
-  },
-  {
-    "sku": "BA-SWITCH",
-    "name": "Breakaway Switch",
-    "slug": "ba-switch-breakaway-switch",
-    "category": "towing",
-    "subcategory": "breakaway-kits-and-parts",
-    "summary": "Replacement breakaway switch with lanyard."
-  },
-  {
-    "sku": "BA-BATT",
-    "name": "Breakaway Battery",
-    "slug": "ba-batt-breakaway-battery",
-    "category": "towing",
-    "subcategory": "breakaway-kits-and-parts",
-    "summary": "Rechargeable breakaway battery."
-  },
-  {
-    "sku": "BA-BOX",
-    "name": "Breakaway Battery Box",
-    "slug": "ba-box-breakaway-battery-box",
-    "category": "towing",
-    "subcategory": "breakaway-kits-and-parts",
-    "summary": "Weather-resistant box for the breakaway battery."
-  },
-  {
-    "sku": "BA-LANYARD",
-    "name": "Breakaway Lanyard",
-    "slug": "ba-lanyard-breakaway-lanyard",
-    "category": "towing",
-    "subcategory": "breakaway-kits-and-parts",
-    "summary": "Replacement lanyard/cable."
-  },
-  {
-    "sku": "HAR-7WAY",
-    "name": "7-Way Trailer Harness",
-    "slug": "har-7way-7-way-trailer-harness",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "7-way blade harness for brake-equipped trailers."
-  },
-  {
-    "sku": "HAR-4FLAT",
-    "name": "4-Flat Harness",
-    "slug": "har-4flat-4-flat-harness",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "4-flat lighting harness for utility trailers."
-  },
-  {
-    "sku": "HAR-5WAY",
-    "name": "5-Way Harness",
-    "slug": "har-5way-5-way-harness",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "5-way harness for trailers with reverse or aux functions."
-  },
-  {
-    "sku": "EXT-7-4",
-    "name": "7-Way Extension 4 ft",
-    "slug": "ext-7-4-7-way-extension-4-ft",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "4 ft 7-way extension."
-  },
-  {
-    "sku": "EXT-7-8",
-    "name": "7-Way Extension 8 ft",
-    "slug": "ext-7-8-7-way-extension-8-ft",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "8 ft 7-way extension."
-  },
-  {
-    "sku": "EXT-4-4",
-    "name": "4-Flat Extension 4 ft",
-    "slug": "ext-4-4-4-flat-extension-4-ft",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "4 ft 4-flat extension."
-  },
-  {
-    "sku": "ADP-7TO4",
-    "name": "7-Way to 4-Flat Adapter",
-    "slug": "adp-7to4-7-way-to-4-flat-adapter",
-    "category": "towing",
-    "subcategory": "harnesses-and-extensions",
-    "summary": "Adapter from 7-way vehicle to 4-flat trailer."
-  },
-  {
-    "sku": "END-7VEH",
-    "name": "7-Way Vehicle End",
-    "slug": "end-7veh-7-way-vehicle-end",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "Vehicle-side 7-way socket."
-  },
-  {
-    "sku": "END-7TRL",
-    "name": "7-Way Trailer Plug",
-    "slug": "end-7trl-7-way-trailer-plug",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "Trailer-side 7-way plug."
-  },
-  {
-    "sku": "END-4VEH",
-    "name": "4-Flat Vehicle End",
-    "slug": "end-4veh-4-flat-vehicle-end",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "Vehicle-side 4-flat socket."
-  },
-  {
-    "sku": "END-4TRL",
-    "name": "4-Flat Trailer Plug",
-    "slug": "end-4trl-4-flat-trailer-plug",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "Trailer-side 4-flat plug."
-  },
-  {
-    "sku": "END-6RND",
-    "name": "6-Round Connector",
-    "slug": "end-6rnd-6-round-connector",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "6-round towing connector. Call to confirm pinout."
-  },
-  {
-    "sku": "END-COVER",
-    "name": "7-Way Socket Cover",
-    "slug": "end-cover-7-way-socket-cover",
-    "category": "towing",
-    "subcategory": "vehicle-and-trailer-ends",
-    "summary": "Replacement cover for 7-way vehicle sockets."
   },
   {
     "sku": "GH-623",
     "name": "2.5 Class V 21K 6 Drop",
     "slug": "gh-623-2-5-class-v-21k-6-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Class V 2.5 in shank, 21,000 lb, 6 in drop."
   },
@@ -2195,7 +2019,7 @@
     "sku": "20040B",
     "name": "B&W 2.5 Shank 7 in Drop",
     "slug": "20040b-bandw-2-5-shank-7-in-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "B&W 2.5 in shank, 7 in drop."
   },
@@ -2203,7 +2027,7 @@
     "sku": "CTB6-2.5",
     "name": "6 in Weigh Safe 2.5 Hitch",
     "slug": "ctb6-2-5-6-in-weigh-safe-2-5-hitch",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Weigh Safe adjustable hitch, 6 in, 2.5 in shank."
   },
@@ -2211,7 +2035,7 @@
     "sku": "3410-25",
     "name": "2.5 Shank 6 Rapid Hitch",
     "slug": "3410-25-2-5-shank-6-rapid-hitch",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Rapid Hitch, 6 in, 2.5 in shank."
   },
@@ -2219,7 +2043,7 @@
     "sku": "20037B",
     "name": "B&W 2.5 Shank 5 in Drop",
     "slug": "20037b-bandw-2-5-shank-5-in-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "B&W 2.5 in shank, 5 in drop."
   },
@@ -2227,7 +2051,7 @@
     "sku": "GH-624",
     "name": "2.5 Class V 21K 9 Drop",
     "slug": "gh-624-2-5-class-v-21k-9-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Class V 2.5 in shank, 21,000 lb, 9 in drop."
   },
@@ -2235,7 +2059,7 @@
     "sku": "3410",
     "name": "6 Rapid Hitch 2 & 2 5/16 Chrome",
     "slug": "3410-6-rapid-hitch-2-and-2-5-16-chrome",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Rapid Hitch for 2 in and 2-5/16 in balls, chrome."
   },
@@ -2243,7 +2067,7 @@
     "sku": "CTB8-2.5",
     "name": "8 in Weigh Safe 2.5 Hitch",
     "slug": "ctb8-2-5-8-in-weigh-safe-2-5-hitch",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Weigh Safe adjustable hitch, 8 in, 2.5 in shank."
   },
@@ -2251,7 +2075,7 @@
     "sku": "GH-524",
     "name": "2 Class V 16K 7.5 Drop",
     "slug": "gh-524-2-class-v-16k-7-5-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Class V 2 in shank, 16,000 lb, 7.5 in drop."
   },
@@ -2259,7 +2083,7 @@
     "sku": "10037",
     "name": "Tow & Stow 5 Drop",
     "slug": "10037-tow-and-stow-5-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Tow & Stow adjustable ball mount, 5 in drop."
   },
@@ -2267,7 +2091,7 @@
     "sku": "10048",
     "name": "Tow & Stow Tri Ball",
     "slug": "10048-tow-and-stow-tri-ball",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Tow & Stow tri-ball mount."
   },
@@ -2275,7 +2099,7 @@
     "sku": "TS20066BMP",
     "name": "B&W MultiPro 2.5 7 in",
     "slug": "ts20066bmp-bandw-multipro-2-5-7-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "B&W MultiPro, 2.5 in shank, 7 in."
   },
@@ -2283,7 +2107,7 @@
     "sku": "GH-523",
     "name": "2 Class V 16K 5 Drop",
     "slug": "gh-523-2-class-v-16k-5-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Class V 2 in shank, 16,000 lb, 5 in drop."
   },
@@ -2291,7 +2115,7 @@
     "sku": "CTB6-2",
     "name": "6 in Weigh Safe 2 Hitch",
     "slug": "ctb6-2-6-in-weigh-safe-2-hitch",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Weigh Safe hitch, 6 in, 2 in shank."
   },
@@ -2299,7 +2123,7 @@
     "sku": "10040",
     "name": "Tow & Stow 7 Drop",
     "slug": "10040-tow-and-stow-7-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Tow & Stow adjustable mount, 7 in drop."
   },
@@ -2307,7 +2131,7 @@
     "sku": "GH-525",
     "name": "2 Class V 16K 10 Drop",
     "slug": "gh-525-2-class-v-16k-10-drop",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Class V 2 in shank, 16,000 lb, 10 in drop."
   },
@@ -2315,7 +2139,7 @@
     "sku": "344525",
     "name": "8 Rapid Hitch 2.5",
     "slug": "344525-8-rapid-hitch-2-5",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "ball-mounts",
     "summary": "Rapid Hitch 8 in, 2.5 in shank."
   },
@@ -2323,7 +2147,7 @@
     "sku": "PIN-58",
     "name": "Hitch Pin 5/8",
     "slug": "pin-58-hitch-pin-5-8",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Standard 5/8 in receiver hitch pin and clip."
   },
@@ -2331,7 +2155,7 @@
     "sku": "PIN-LOCK",
     "name": "Locking Hitch Pin",
     "slug": "pin-lock-locking-hitch-pin",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Receiver lock pin. Keyed. Call for 2 in vs 2.5 in."
   },
@@ -2339,7 +2163,7 @@
     "sku": "LOCK-CPL",
     "name": "Coupler Lock",
     "slug": "lock-cpl-coupler-lock",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Lock for 2 in and 2-5/16 in couplers."
   },
@@ -2347,7 +2171,7 @@
     "sku": "1481DAT",
     "name": "Receiver & Coupler Lock",
     "slug": "1481dat-receiver-and-coupler-lock",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Combination receiver and coupler lock set."
   },
@@ -2355,7 +2179,7 @@
     "sku": "377DAT",
     "name": "Lock For Coupler",
     "slug": "377dat-lock-for-coupler",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Dedicated coupler lock."
   },
@@ -2363,7 +2187,7 @@
     "sku": "378DAT",
     "name": "Lock Coupler 2 5/16 Ball",
     "slug": "378dat-lock-coupler-2-5-16-ball",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Lock sized for 2-5/16 in ball couplers."
   },
@@ -2371,7 +2195,7 @@
     "sku": "4338600",
     "name": "2 Lever Lock",
     "slug": "4338600-2-lever-lock",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "hitch-pins-and-locks",
     "summary": "Lever-style coupler/hitch lock."
   },
@@ -2379,7 +2203,7 @@
     "sku": "10053",
     "name": "Tow & Stow Pintle/Ball",
     "slug": "10053-tow-and-stow-pintle-ball",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "Tow & Stow combination pintle and ball."
   },
@@ -2387,7 +2211,7 @@
     "sku": "BH82516",
     "name": "Combo 2 5/16 And Pintle",
     "slug": "bh82516-combo-2-5-16-and-pintle",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "Combination 2-5/16 in ball and pintle."
   },
@@ -2395,7 +2219,7 @@
     "sku": "BH152516",
     "name": "15 Ton Pintle Combination",
     "slug": "bh152516-15-ton-pintle-combination",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "15-ton pintle combination mount."
   },
@@ -2403,7 +2227,7 @@
     "sku": "RM122516",
     "name": "2.5 Rec 2 5/16 Combo",
     "slug": "rm122516-2-5-rec-2-5-16-combo",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "2.5 in receiver, 2-5/16 combo ball/pintle."
   },
@@ -2411,7 +2235,7 @@
     "sku": "PH-20T",
     "name": "Pintle Hook 20 Ton",
     "slug": "ph-20t-pintle-hook-20-ton",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "20-ton pintle hook."
   },
@@ -2419,7 +2243,7 @@
     "sku": "B16145",
     "name": "12.5 Ton Tow Eye 3 in ID",
     "slug": "b16145-12-5-ton-tow-eye-3-in-id",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "12.5-ton tow eye, 3 in inside diameter."
   },
@@ -2427,7 +2251,7 @@
     "sku": "PINTLE-MOUNT",
     "name": "Pintle Mount Plate",
     "slug": "pintle-mount-pintle-mount-plate",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "Bolt-on pintle mount plate. Confirm hole pattern."
   },
@@ -2435,7 +2259,7 @@
     "sku": "LUNETTE",
     "name": "Lunette Ring 3 in",
     "slug": "lunette-lunette-ring-3-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "pintle-mounts-and-hardware",
     "summary": "3 in lunette ring for pintle towing."
   },
@@ -2443,7 +2267,7 @@
     "sku": "RED-SLEEVE",
     "name": "Reducer Sleeve 2-1/2 to 2 in Shank",
     "slug": "red-sleeve-reducer-sleeve-2-1-2-to-2-in-shank",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "Sleeve to run a 2 in shank in a 2.5 in receiver."
   },
@@ -2451,7 +2275,7 @@
     "sku": "EXT-2-6",
     "name": "Receiver Extension 6 in",
     "slug": "ext-2-6-receiver-extension-6-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "6 in 2 in receiver extension."
   },
@@ -2459,7 +2283,7 @@
     "sku": "EXT-2-12",
     "name": "Receiver Extension 12 in",
     "slug": "ext-2-12-receiver-extension-12-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "12 in 2 in receiver extension. Mind tongue-weight ratings."
   },
@@ -2467,7 +2291,7 @@
     "sku": "TUBE-2",
     "name": "Receiver Tube 2 in",
     "slug": "tube-2-receiver-tube-2-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "Weld-on 2 in receiver tube."
   },
@@ -2475,7 +2299,7 @@
     "sku": "TUBE-25",
     "name": "Receiver Tube 2.5 in",
     "slug": "tube-25-receiver-tube-2-5-in",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "Weld-on 2.5 in receiver tube."
   },
@@ -2483,7 +2307,7 @@
     "sku": "EXT-25-8",
     "name": "2.5 in Receiver Extension",
     "slug": "ext-25-8-2-5-in-receiver-extension",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "receiver-tubes-and-extensions",
     "summary": "Extension for 2.5 in receivers."
   },
@@ -2491,7 +2315,7 @@
     "sku": "MIR-CLIP",
     "name": "Clip-On Tow Mirror Pair",
     "slug": "mir-clip-clip-on-tow-mirror-pair",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "tow-mirrors",
     "summary": "Clip-on tow mirrors for wider trailers and RVs."
   },
@@ -2499,7 +2323,7 @@
     "sku": "MIR-EXT",
     "name": "Extendable Tow Mirror",
     "slug": "mir-ext-extendable-tow-mirror",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "tow-mirrors",
     "summary": "Manual-extend tow mirror. Vehicle-specific applications."
   },
@@ -2507,7 +2331,7 @@
     "sku": "MIR-UNIVERSAL",
     "name": "Universal Tow Mirror",
     "slug": "mir-universal-universal-tow-mirror",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "tow-mirrors",
     "summary": "Universal add-on tow mirror."
   },
@@ -2515,41 +2339,193 @@
     "sku": "MIR-CONVEX",
     "name": "Convex Spotter Mirror",
     "slug": "mir-convex-convex-spotter-mirror",
-    "category": "towing",
+    "category": "towing-and-safety",
     "subcategory": "tow-mirrors",
     "summary": "Convex spotter for trailer-side visibility."
   },
   {
-    "sku": "EA2000",
-    "name": "A Frame Jack 2K",
-    "slug": "ea2000-a-frame-jack-2k",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "A-frame jack, 2,000 lb."
+    "sku": "BC-PROP",
+    "name": "Proportional Brake Controller",
+    "slug": "bc-prop-proportional-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Proportional electric brake controller for 1–4 axle trailers."
   },
   {
-    "sku": "JACK-5K",
-    "name": "Side-Wind Jack 5,000 lb",
-    "slug": "jack-5k-side-wind-jack-5-000-lb",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "Side-wind trailer jack, 5,000 lb."
+    "sku": "BC-TIME",
+    "name": "Time-Based Brake Controller",
+    "slug": "bc-time-time-based-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Time-delayed brake controller. Straightforward install."
   },
   {
-    "sku": "JACK-DLX",
-    "name": "Drop-Leg Jack",
-    "slug": "jack-dlx-drop-leg-jack",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "Drop-leg jack for heavier tongues. Confirm lift capacity."
+    "sku": "BC-COMPACT",
+    "name": "Compact Dash Brake Controller",
+    "slug": "bc-compact-compact-dash-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Low-profile controller for limited dash space."
   },
   {
-    "sku": "WINCH-2K",
-    "name": "Utility Winch 2,000 lb",
-    "slug": "winch-2k-utility-winch-2-000-lb",
-    "category": "trailer-equipment",
-    "subcategory": "cargo-management",
-    "summary": "2,000 lb utility winch with strap."
+    "sku": "BC-HARNESS",
+    "name": "Brake Controller Harness",
+    "slug": "bc-harness-brake-controller-harness",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Plug-in harness. Vehicle-specific — call with year/make/model."
+  },
+  {
+    "sku": "BC-HEAVY",
+    "name": "Heavy-Duty Brake Controller",
+    "slug": "bc-heavy-heavy-duty-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Controller suited to heavier multi-axle trailers."
+  },
+  {
+    "sku": "BA-KIT",
+    "name": "Breakaway Kit with Battery",
+    "slug": "ba-kit-breakaway-kit-with-battery",
+    "category": "towing-electrical",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Complete breakaway switch, battery, and box."
+  },
+  {
+    "sku": "BA-SWITCH",
+    "name": "Breakaway Switch",
+    "slug": "ba-switch-breakaway-switch",
+    "category": "towing-electrical",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Replacement breakaway switch with lanyard."
+  },
+  {
+    "sku": "BA-BATT",
+    "name": "Breakaway Battery",
+    "slug": "ba-batt-breakaway-battery",
+    "category": "towing-electrical",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Rechargeable breakaway battery."
+  },
+  {
+    "sku": "BA-BOX",
+    "name": "Breakaway Battery Box",
+    "slug": "ba-box-breakaway-battery-box",
+    "category": "towing-electrical",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Weather-resistant box for the breakaway battery."
+  },
+  {
+    "sku": "BA-LANYARD",
+    "name": "Breakaway Lanyard",
+    "slug": "ba-lanyard-breakaway-lanyard",
+    "category": "towing-electrical",
+    "subcategory": "breakaway-kits-and-parts",
+    "summary": "Replacement lanyard/cable."
+  },
+  {
+    "sku": "HAR-7WAY",
+    "name": "7-Way Trailer Harness",
+    "slug": "har-7way-7-way-trailer-harness",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "7-way blade harness for brake-equipped trailers."
+  },
+  {
+    "sku": "HAR-4FLAT",
+    "name": "4-Flat Harness",
+    "slug": "har-4flat-4-flat-harness",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4-flat lighting harness for utility trailers."
+  },
+  {
+    "sku": "HAR-5WAY",
+    "name": "5-Way Harness",
+    "slug": "har-5way-5-way-harness",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "5-way harness for trailers with reverse or aux functions."
+  },
+  {
+    "sku": "EXT-7-4",
+    "name": "7-Way Extension 4 ft",
+    "slug": "ext-7-4-7-way-extension-4-ft",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4 ft 7-way extension."
+  },
+  {
+    "sku": "EXT-7-8",
+    "name": "7-Way Extension 8 ft",
+    "slug": "ext-7-8-7-way-extension-8-ft",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "8 ft 7-way extension."
+  },
+  {
+    "sku": "EXT-4-4",
+    "name": "4-Flat Extension 4 ft",
+    "slug": "ext-4-4-4-flat-extension-4-ft",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "4 ft 4-flat extension."
+  },
+  {
+    "sku": "ADP-7TO4",
+    "name": "7-Way to 4-Flat Adapter",
+    "slug": "adp-7to4-7-way-to-4-flat-adapter",
+    "category": "towing-electrical",
+    "subcategory": "harnesses-and-extensions",
+    "summary": "Adapter from 7-way vehicle to 4-flat trailer."
+  },
+  {
+    "sku": "END-7VEH",
+    "name": "7-Way Vehicle End",
+    "slug": "end-7veh-7-way-vehicle-end",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "Vehicle-side 7-way socket."
+  },
+  {
+    "sku": "END-7TRL",
+    "name": "7-Way Trailer Plug",
+    "slug": "end-7trl-7-way-trailer-plug",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "Trailer-side 7-way plug."
+  },
+  {
+    "sku": "END-4VEH",
+    "name": "4-Flat Vehicle End",
+    "slug": "end-4veh-4-flat-vehicle-end",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "Vehicle-side 4-flat socket."
+  },
+  {
+    "sku": "END-4TRL",
+    "name": "4-Flat Trailer Plug",
+    "slug": "end-4trl-4-flat-trailer-plug",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "Trailer-side 4-flat plug."
+  },
+  {
+    "sku": "END-6RND",
+    "name": "6-Round Connector",
+    "slug": "end-6rnd-6-round-connector",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "6-round towing connector. Call to confirm pinout."
+  },
+  {
+    "sku": "END-COVER",
+    "name": "7-Way Socket Cover",
+    "slug": "end-cover-7-way-socket-cover",
+    "category": "towing-electrical",
+    "subcategory": "vehicle-and-trailer-ends",
+    "summary": "Replacement cover for 7-way vehicle sockets."
   },
   {
     "sku": "RATCHET",
@@ -2774,5 +2750,29 @@
     "category": "trailer-equipment",
     "subcategory": "e-track-fittings",
     "summary": "Short E-track section for custom installs."
+  },
+  {
+    "sku": "EA2000",
+    "name": "A Frame Jack 2K",
+    "slug": "ea2000-a-frame-jack-2k",
+    "category": "trailer-equipment",
+    "subcategory": "jacks",
+    "summary": "A-frame jack, 2,000 lb."
+  },
+  {
+    "sku": "JACK-5K",
+    "name": "Side-Wind Jack 5,000 lb",
+    "slug": "jack-5k-side-wind-jack-5-000-lb",
+    "category": "trailer-equipment",
+    "subcategory": "jacks",
+    "summary": "Side-wind trailer jack, 5,000 lb."
+  },
+  {
+    "sku": "JACK-DLX",
+    "name": "Drop-Leg Jack",
+    "slug": "jack-dlx-drop-leg-jack",
+    "category": "trailer-equipment",
+    "subcategory": "jacks",
+    "summary": "Drop-leg jack for heavier tongues. Confirm lift capacity."
   }
 ]

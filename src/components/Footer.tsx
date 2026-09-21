@@ -13,8 +13,7 @@ export function Footer() {
             <Logo />
           </div>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-cream/80">
-            Family-owned since 1955. Wholesale distributor and retail counter for
-            trailer and RV parts across Michigan.
+            Founded in Flint, MI in 1955. 100% Veteran Owned.
           </p>
           <ul className="mt-5 flex gap-3">
             <li>
@@ -49,12 +48,12 @@ export function Footer() {
           <h2 className="font-display text-sm uppercase tracking-[0.2em] text-copper">
             Parts
           </h2>
-          <ul className="mt-3 space-y-2 text-sm">
+          <ul className="mt-3 columns-1 text-sm sm:columns-2">
             {categories.map((category) => (
-              <li key={category.slug}>
-                <Link href={`/products/${category.slug}/`} className="hover:text-copper">
+              <li key={category.slug} className="break-inside-avoid pb-2">
+                <a href={`/products/#${category.slug}`} className="hover:text-copper">
                   {category.name}
-                </Link>
+                </a>
               </li>
             ))}
           </ul>
@@ -64,6 +63,16 @@ export function Footer() {
             Company
           </h2>
           <ul className="mt-3 space-y-2 text-sm">
+            <li>
+              <Link href="/products/" className="hover:text-copper">
+                Parts
+              </Link>
+            </li>
+            <li>
+              <Link href="/propane/" className="hover:text-copper">
+                Propane
+              </Link>
+            </li>
             <li>
               <Link href="/locations/" className="hover:text-copper">
                 Locations

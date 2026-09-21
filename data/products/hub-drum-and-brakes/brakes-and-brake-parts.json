@@ -1,0 +1,386 @@
+[
+  {
+    "sku": "12X2-RH",
+    "name": "12 X 2 Ele Brake RH",
+    "slug": "12x2-rh-12-x-2-ele-brake-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 x 2 in electric brake, right hand."
+  },
+  {
+    "sku": "12X2-LH",
+    "name": "12 X 2 Ele Brake LH",
+    "slug": "12x2-lh-12-x-2-ele-brake-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 x 2 in electric brake, left hand."
+  },
+  {
+    "sku": "35R",
+    "name": "10 X 2.25 Ele Brake R",
+    "slug": "35r-10-x-2-25-ele-brake-r",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10 x 2.25 in electric brake, right."
+  },
+  {
+    "sku": "35L",
+    "name": "10 X 2.25 Ele Brake L",
+    "slug": "35l-10-x-2-25-ele-brake-l",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10 x 2.25 in electric brake, left."
+  },
+  {
+    "sku": "02318000",
+    "name": "12 X 2 7000# LH",
+    "slug": "02318000-12-x-2-7000-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 x 2 in 7,000 lb electric brake, left."
+  },
+  {
+    "sku": "02318100",
+    "name": "12 X 2 7000# RH",
+    "slug": "02318100-12-x-2-7000-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 x 2 in 7,000 lb electric brake, right."
+  },
+  {
+    "sku": "K2346400",
+    "name": "7K Nev-R-Adjust Brakes LH",
+    "slug": "k2346400-7k-nev-r-adjust-brakes-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "7K Nev-R-Adjust electric brake, left."
+  },
+  {
+    "sku": "K2346500",
+    "name": "7K Nev-R-Adjust Brakes RH",
+    "slug": "k2346500-7k-nev-r-adjust-brakes-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "7K Nev-R-Adjust electric brake, right."
+  },
+  {
+    "sku": "70LSA",
+    "name": "12 Self Adjusting LH",
+    "slug": "70lsa-12-self-adjusting-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 in self-adjusting electric brake, left."
+  },
+  {
+    "sku": "70RSA",
+    "name": "12 Self Adjusting RH",
+    "slug": "70rsa-12-self-adjusting-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 in self-adjusting electric brake, right."
+  },
+  {
+    "sku": "BK10L",
+    "name": "Brake 3 3/8 10K LH",
+    "slug": "bk10l-brake-3-3-8-10k-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10K electric brake, 3-3/8 in, left."
+  },
+  {
+    "sku": "BK10R",
+    "name": "Brake 3 3/8 10K RH",
+    "slug": "bk10r-brake-3-3-8-10k-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10K electric brake, 3-3/8 in, right."
+  },
+  {
+    "sku": "02343500",
+    "name": "Brake 8K 3 3/8 4 Bolt RH",
+    "slug": "02343500-brake-8k-3-3-8-4-bolt-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "8K brake, 3-3/8 in, 4-bolt, right."
+  },
+  {
+    "sku": "02343400",
+    "name": "Brake 8K 3 3/8 4 Bolt LH",
+    "slug": "02343400-brake-8k-3-3-8-4-bolt-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "8K brake, 3-3/8 in, 4-bolt, left."
+  },
+  {
+    "sku": "21004R",
+    "name": "12 3-3/8 RH Ele Brake 4bolt",
+    "slug": "21004r-12-3-3-8-rh-ele-brake-4bolt",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 in 3-3/8 electric brake, 4-bolt, right."
+  },
+  {
+    "sku": "21004L",
+    "name": "12 3-3/8 LH Ele Brake 4bolt",
+    "slug": "21004l-12-3-3-8-lh-ele-brake-4bolt",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12 in 3-3/8 electric brake, 4-bolt, left."
+  },
+  {
+    "sku": "02345100",
+    "name": "Brake 12.25X3.375 RH Aftermarket",
+    "slug": "02345100-brake-12-25x3-375-rh-aftermarket",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12.25 x 3.375 in aftermarket brake, right."
+  },
+  {
+    "sku": "02345000",
+    "name": "Brake 12.25X3.375 LH Aftermarket",
+    "slug": "02345000-brake-12-25x3-375-lh-aftermarket",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "12.25 x 3.375 in aftermarket brake, left."
+  },
+  {
+    "sku": "21015R",
+    "name": "5 Brake RH",
+    "slug": "21015r-5-brake-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "5 in electric brake, right hand."
+  },
+  {
+    "sku": "21015L",
+    "name": "5 Brake LH",
+    "slug": "21015l-5-brake-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "5 in electric brake, left hand."
+  },
+  {
+    "sku": "02302600",
+    "name": "Brake 10 X 2-1/4 LH Elec",
+    "slug": "02302600-brake-10-x-2-1-4-lh-elec",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10 x 2-1/4 in electric brake, left."
+  },
+  {
+    "sku": "02302700",
+    "name": "Brake 10 X 2-1/4 RH Electric",
+    "slug": "02302700-brake-10-x-2-1-4-rh-electric",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10 x 2-1/4 in electric brake, right."
+  },
+  {
+    "sku": "K23429",
+    "name": "12 1/4 x 2 1/2 7.2K",
+    "slug": "k23429-12-1-4-x-2-1-2-7-2k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "7.2K brake, 12-1/4 x 2-1/2 in."
+  },
+  {
+    "sku": "K2352800",
+    "name": "LH 10/12K Electric Brake",
+    "slug": "k2352800-lh-10-12k-electric-brake",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "10K/12K electric brake, left hand."
+  },
+  {
+    "sku": "K7137800",
+    "name": "Mag Kit Ovl 12-1/4 X 5 (15K)",
+    "slug": "k7137800-mag-kit-ovl-12-1-4-x-5-15k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet kit for 12-1/4 x 5 in 15K brakes."
+  },
+  {
+    "sku": "21026",
+    "name": "8K-15K Brake Magnet",
+    "slug": "21026-8k-15k-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Replacement magnet for 8K–15K electric brakes."
+  },
+  {
+    "sku": "K7112500",
+    "name": "12 X 2 Magnet 7K",
+    "slug": "k7112500-12-x-2-magnet-7k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 12 x 2 in 7K electric brakes."
+  },
+  {
+    "sku": "K7132400",
+    "name": "Adjusting Spring & Screw 10 & 12",
+    "slug": "k7132400-adjusting-spring-and-screw-10-and-12",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Adjuster spring and screw for 10 and 12 in brakes."
+  },
+  {
+    "sku": "K7110400",
+    "name": "Magnet Kit 10 X 2-1/4 Brake",
+    "slug": "k7110400-magnet-kit-10-x-2-1-4-brake",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet kit for 10 x 2-1/4 in electric brakes."
+  },
+  {
+    "sku": "K7112700",
+    "name": "12 X 2 Shoe 7K Electric",
+    "slug": "k7112700-12-x-2-shoe-7k-electric",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Brake shoe for 12 x 2 in 7K electric brakes."
+  },
+  {
+    "sku": "K7107705",
+    "name": "UFP Wheel End Kit",
+    "slug": "k7107705-ufp-wheel-end-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP wheel-end service kit."
+  },
+  {
+    "sku": "03305201",
+    "name": "Clamping Ring",
+    "slug": "03305201-clamping-ring",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Brake clamping ring."
+  },
+  {
+    "sku": "K7177302",
+    "name": "UFP RH Caliper",
+    "slug": "k7177302-ufp-rh-caliper",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP right-hand hydraulic caliper."
+  },
+  {
+    "sku": "K7177301",
+    "name": "UFP LH Caliper",
+    "slug": "k7177301-ufp-lh-caliper",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "UFP left-hand hydraulic caliper."
+  },
+  {
+    "sku": "21025",
+    "name": "12 Brake Magnet",
+    "slug": "21025-12-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 12 in electric trailer brakes."
+  },
+  {
+    "sku": "21024",
+    "name": "10 Brake Magnet",
+    "slug": "21024-10-brake-magnet",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Magnet for 10 in electric trailer brakes."
+  },
+  {
+    "sku": "05406500",
+    "name": "Brake Cylinder RH",
+    "slug": "05406500-brake-cylinder-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Right-hand hydraulic brake cylinder."
+  },
+  {
+    "sku": "05406400",
+    "name": "Brake Cylinder LH",
+    "slug": "05406400-brake-cylinder-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Left-hand hydraulic brake cylinder."
+  },
+  {
+    "sku": "K7104600",
+    "name": "Brake Shoe & Lining 10 X 1-1/2",
+    "slug": "k7104600-brake-shoe-and-lining-10-x-1-1-2",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Shoe and lining for 10 x 1-1/2 in brakes."
+  },
+  {
+    "sku": "K7126700",
+    "name": "Shoe & Lining 10 Hydraulic",
+    "slug": "k7126700-shoe-and-lining-10-hydraulic",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake shoe and lining, 10 in."
+  },
+  {
+    "sku": "K7149800",
+    "name": "Shoe & Lining 3-3/8 New RH",
+    "slug": "k7149800-shoe-and-lining-3-3-8-new-rh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Right-hand shoe and lining, 3-3/8 in."
+  },
+  {
+    "sku": "K7149900",
+    "name": "Shoe & Lining 3 3/8 New LH",
+    "slug": "k7149900-shoe-and-lining-3-3-8-new-lh",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Left-hand shoe and lining, 3-3/8 in."
+  },
+  {
+    "sku": "9505",
+    "name": "Hydro Line Kit Tandem",
+    "slug": "9505-hydro-line-kit-tandem",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake line kit for tandem axles."
+  },
+  {
+    "sku": "9504",
+    "name": "Hyd Line Kit Single",
+    "slug": "9504-hyd-line-kit-single",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Hydraulic brake line kit for a single axle."
+  },
+  {
+    "sku": "K568261",
+    "name": "Armature Plate",
+    "slug": "k568261-armature-plate",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Armature plate for electric brake magnets."
+  },
+  {
+    "sku": "K7139300",
+    "name": "Shoe & Line Free Backing",
+    "slug": "k7139300-shoe-and-line-free-backing",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Free-backing shoe and lining set."
+  },
+  {
+    "sku": "K7136300",
+    "name": "Brake Spring Kit 10 X 12 Dex",
+    "slug": "k7136300-brake-spring-kit-10-x-12-dex",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Spring kit for 10 and 12 in Dexter-style brakes."
+  },
+  {
+    "sku": "K7104700",
+    "name": "Shoe & Lining Kit 10 X 2-1/4",
+    "slug": "k7104700-shoe-and-lining-kit-10-x-2-1-4",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "brakes-and-brake-parts",
+    "summary": "Complete shoe kit for 10 x 2-1/4 in brakes."
+  }
+]

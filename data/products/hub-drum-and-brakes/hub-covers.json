@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "CAP-1750",
+    "name": "Dust Cap 1,750 lb",
+    "slug": "cap-1750-dust-cap-1-750-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Grease dust cap for 1,750 lb hubs."
+  },
+  {
+    "sku": "CAP-3500",
+    "name": "Dust Cap 3,500 lb",
+    "slug": "cap-3500-dust-cap-3-500-lb",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Dust cap for common 5-lug 3,500 lb hubs."
+  },
+  {
+    "sku": "CAP-OIL8K",
+    "name": "Oil Cap 8K",
+    "slug": "cap-oil8k-oil-cap-8k",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Oil bath cap for 8K hub-and-drum assemblies."
+  },
+  {
+    "sku": "CAP-EZ",
+    "name": "Easy Lube Cap",
+    "slug": "cap-ez-easy-lube-cap",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Cap for easy-lube / wet spindles."
+  },
+  {
+    "sku": "HC-DOME",
+    "name": "Chrome Dome Hub Cover",
+    "slug": "hc-dome-chrome-dome-hub-cover",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Decorative chrome hub cover. Confirm diameter."
+  },
+  {
+    "sku": "HC-OILWIN",
+    "name": "Oil Cap with Window",
+    "slug": "hc-oilwin-oil-cap-with-window",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hub-covers",
+    "summary": "Oil cap with sight window for oil-bath hubs."
+  }
+]

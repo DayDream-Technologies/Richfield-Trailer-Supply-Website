@@ -6,7 +6,7 @@ import { faqs } from "@/data/faq";
 import { faqJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Trailer Parts FAQ",
+  title: "Questions we hear at the Parts Counter",
   description:
     "Answers on trailer lighting, hubs, grease seals, tires, and hydraulic-to-electric brake conversions from Richfield Trailer Supply.",
   alternates: { canonical: "/faq/" },
@@ -17,9 +17,13 @@ export default function FaqPage() {
     <>
       <JsonLd data={faqJsonLd()} />
       <PageHero
-        eyebrow="FAQ"
-        title="Trailer questions we hear at the counter"
-        description="Have a trailer-related question? Start here, then call any store for a part number."
+        title={
+          <>
+            Questions we hear
+            <br />
+            at the Parts Counter.
+          </>
+        }
       />
       <div className="mx-auto max-w-3xl px-4 py-12 md:px-6">
         <dl className="space-y-8">

@@ -4,6 +4,11 @@ import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
+console.error(
+  "catalog:generate still uses the old six-category catalog. Edit JSON under data/products/ and run npm run catalog:sync instead.",
+);
+process.exit(1);
+
 function slugify(value) {
   return value
     .toLowerCase()

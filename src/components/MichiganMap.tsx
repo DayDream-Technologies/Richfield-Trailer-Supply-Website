@@ -20,11 +20,8 @@ export function MichiganMap() {
     <figure className="overflow-hidden rounded-sm border border-line bg-white">
       <div className="border-b border-line px-4 py-4 md:px-6">
         <figcaption className="font-display text-lg uppercase tracking-wide text-navy">
-          Lower Peninsula stores
+          Select a pin or scroll down for hours and contact information.
         </figcaption>
-        <p className="mt-1 text-sm text-steel">
-          Three counters across Michigan. Select a pin to scroll to hours and contact.
-        </p>
       </div>
       <svg
         viewBox={`0 0 ${michiganMap.width} ${michiganMap.height}`}

@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "00601000",
+    "name": "Nut 3/8 X 24 For Stud",
+    "slug": "00601000-nut-3-8-x-24-for-stud",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "3/8-24 nut for brake and hub studs."
+  },
+  {
+    "sku": "HDB-BOLT38",
+    "name": "Brake Mounting Bolt 3/8",
+    "slug": "hdb-bolt38-brake-mounting-bolt-3-8",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Mounting bolt for electric brake backing plates."
+  },
+  {
+    "sku": "HDB-STUD",
+    "name": "Hub Stud Replacement",
+    "slug": "hdb-stud-hub-stud-replacement",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Replacement hub stud. Confirm thread and knurl."
+  },
+  {
+    "sku": "HDB-WASHER",
+    "name": "Spindle Washer",
+    "slug": "hdb-washer-spindle-washer",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Spindle washer for castle-nut wheel ends."
+  },
+  {
+    "sku": "HDB-PIN",
+    "name": "Cotter Pin Assortment",
+    "slug": "hdb-pin-cotter-pin-assortment",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Cotter pins for spindle castle nuts."
+  },
+  {
+    "sku": "HDB-FLANGE",
+    "name": "Brake Flange Hardware Kit",
+    "slug": "hdb-flange-brake-flange-hardware-kit",
+    "category": "hub-drum-and-brakes",
+    "subcategory": "hdb-mounting-hardware",
+    "summary": "Hardware kit for welding or bolting brake flanges."
+  }
+]

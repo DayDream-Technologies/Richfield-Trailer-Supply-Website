@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "BC-PROP",
+    "name": "Proportional Brake Controller",
+    "slug": "bc-prop-proportional-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Proportional electric brake controller for 1–4 axle trailers."
+  },
+  {
+    "sku": "BC-TIME",
+    "name": "Time-Based Brake Controller",
+    "slug": "bc-time-time-based-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Time-delayed brake controller. Straightforward install."
+  },
+  {
+    "sku": "BC-COMPACT",
+    "name": "Compact Dash Brake Controller",
+    "slug": "bc-compact-compact-dash-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Low-profile controller for limited dash space."
+  },
+  {
+    "sku": "BC-HARNESS",
+    "name": "Brake Controller Harness",
+    "slug": "bc-harness-brake-controller-harness",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Plug-in harness. Vehicle-specific — call with year/make/model."
+  },
+  {
+    "sku": "BC-HEAVY",
+    "name": "Heavy-Duty Brake Controller",
+    "slug": "bc-heavy-heavy-duty-brake-controller",
+    "category": "towing-electrical",
+    "subcategory": "brake-controllers",
+    "summary": "Controller suited to heavier multi-axle trailers."
+  }
+]

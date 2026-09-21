@@ -4,7 +4,7 @@ import { PageHero } from "@/components/PageHero";
 import { posts } from "@/data/blog";
 
 export const metadata: Metadata = {
-  title: "Trailer Parts Blog",
+  title: "More From The Parts Counter",
   description:
     "Practical articles on trailer tires, hubs, lighting, and maintenance from Richfield Trailer Supply in Michigan.",
   alternates: { canonical: "/blog/" },
@@ -13,11 +13,7 @@ export const metadata: Metadata = {
 export default function BlogIndexPage() {
   return (
     <>
-      <PageHero
-        eyebrow="Guides"
-        title="From the parts counter"
-        description="Maintenance and fitment notes for trailer and RV owners in Michigan."
-      />
+      <PageHero title="More From The Parts Counter" />
       <div className="mx-auto max-w-3xl px-4 py-12 md:px-6">
         <ul className="space-y-8">
           {posts.map((post) => (

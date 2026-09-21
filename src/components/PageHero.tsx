@@ -1,10 +1,12 @@
+import type { ReactNode } from "react";
+
 export function PageHero({
   eyebrow,
   title,
   description,
 }: {
   eyebrow?: string;
-  title: string;
+  title: ReactNode;
   description?: string;
 }) {
   return (
@@ -15,7 +17,9 @@ export function PageHero({
             {eyebrow}
           </p>
         )}
-        <h1 className="mt-2 max-w-3xl font-display text-4xl font-semibold uppercase tracking-wide md:text-5xl">
+        <h1
+          className={`${eyebrow ? "mt-2" : ""} max-w-5xl font-display text-4xl font-semibold uppercase tracking-wide md:text-5xl`}
+        >
           {title}
         </h1>
         {description && (

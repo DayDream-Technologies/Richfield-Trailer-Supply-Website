@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "1311",
+    "name": "Shackle Bolt 9/16-18 X 3",
+    "slug": "1311-shackle-bolt-9-16-18-x-3",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "Grade hardware shackle bolt, 9/16-18 x 3 in."
+  },
+  {
+    "sku": "1811",
+    "name": "2.25 Link",
+    "slug": "1811-2-25-link",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "2.25 in shackle link for light-duty double-eye springs."
+  },
+  {
+    "sku": "18115",
+    "name": "Shackle Link Medium 2-5/8",
+    "slug": "18115-shackle-link-medium-2-5-8",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "Medium shackle link, 2-5/8 in center-to-center."
+  },
+  {
+    "sku": "BUSH-BRZ",
+    "name": "Bushing Bronze",
+    "slug": "bush-brz-bushing-bronze",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "Bronze spring bushing for shackle and hanger eyes."
+  },
+  {
+    "sku": "SHK-3",
+    "name": "Shackle Link 3 in",
+    "slug": "shk-3-shackle-link-3-in",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "3 in shackle link for heavier double-eye springs."
+  },
+  {
+    "sku": "SHK-BOLT58",
+    "name": "Shackle Bolt 5/8",
+    "slug": "shk-bolt58-shackle-bolt-5-8",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "5/8 in shackle bolt with greaseable option on many kits."
+  },
+  {
+    "sku": "NUT-REV",
+    "name": "Reverse Lock Nut 9/16",
+    "slug": "nut-rev-reverse-lock-nut-9-16",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "Two-way reverse lock nut for shackle bolts."
+  },
+  {
+    "sku": "SHK-KIT35",
+    "name": "Shackle Kit 3,500 lb",
+    "slug": "shk-kit35-shackle-kit-3-500-lb",
+    "category": "axle-and-suspension",
+    "subcategory": "shackle-links",
+    "summary": "Link, bolt, nut, and bushing kit for 3,500 lb axles."
+  }
+]

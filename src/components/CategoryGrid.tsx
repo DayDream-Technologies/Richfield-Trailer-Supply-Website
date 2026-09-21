@@ -10,12 +10,12 @@ export function CategoryGrid() {
           href={`/products/${category.slug}/`}
           className="group rounded-sm border border-line bg-paper p-5 shadow-sm transition hover:border-copper hover:shadow-md"
         >
-          <h2 className="font-display text-2xl font-semibold uppercase tracking-wide text-navy group-hover:text-copper-dark">
+          <h2 className="font-display text-xl font-semibold uppercase tracking-wide text-navy group-hover:text-copper-dark md:text-2xl">
             {category.name}
           </h2>
           <p className="mt-2 text-sm leading-relaxed text-steel">{category.summary}</p>
           <p className="mt-4 text-sm font-medium text-copper-dark">
-            {category.subcategories.length} categories →
+            {category.subcategories.length} classes →
           </p>
         </Link>
       ))}

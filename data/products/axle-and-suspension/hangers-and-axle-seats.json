@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "HGR-FRONT",
+    "name": "Front Spring Hanger",
+    "slug": "hgr-front-front-spring-hanger",
+    "category": "axle-and-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Weld-on front hanger for double-eye leaf springs."
+  },
+  {
+    "sku": "HGR-REAR",
+    "name": "Rear Spring Hanger",
+    "slug": "hgr-rear-rear-spring-hanger",
+    "category": "axle-and-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Weld-on rear hanger for slipper or double-eye springs."
+  },
+  {
+    "sku": "SEAT-238",
+    "name": "Axle Seat 2-3/8 in",
+    "slug": "seat-238-axle-seat-2-3-8-in",
+    "category": "axle-and-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Axle seat for 2-3/8 in round axles."
+  },
+  {
+    "sku": "SEAT-3",
+    "name": "Axle Seat 3 in",
+    "slug": "seat-3-axle-seat-3-in",
+    "category": "axle-and-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Axle seat for 3 in round axles."
+  },
+  {
+    "sku": "HGR-CTR",
+    "name": "Center Hanger Tandem",
+    "slug": "hgr-ctr-center-hanger-tandem",
+    "category": "axle-and-suspension",
+    "subcategory": "hangers-and-axle-seats",
+    "summary": "Center hanger used with tandem equalizers."
+  }
+]

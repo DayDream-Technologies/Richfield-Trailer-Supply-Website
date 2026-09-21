@@ -11,9 +11,6 @@ export function StoreSection({ store }: { store: Store }) {
       </h2>
       <div className="mt-6 grid gap-8 lg:grid-cols-2">
         <div>
-          <h3 className="font-display text-xl uppercase tracking-wide text-navy">
-            Address & hours
-          </h3>
           <p className="mt-3 text-ink">
             {store.street}
             <br />

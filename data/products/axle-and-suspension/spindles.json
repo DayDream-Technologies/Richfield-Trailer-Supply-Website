@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "389",
+    "name": "1750# Wet Spindle",
+    "slug": "389-1750-wet-spindle",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Wet (greaseable) spindle for 1,750 lb trailer axles."
+  },
+  {
+    "sku": "276",
+    "name": "3500# Wet Spindle",
+    "slug": "276-3500-wet-spindle",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Wet spindle for 3,500 lb trailer axles."
+  },
+  {
+    "sku": "SPD-52K",
+    "name": "5,200 lb Wet Spindle",
+    "slug": "spd-52k-5-200-lb-wet-spindle",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Replacement spindle for 5,200 lb axles."
+  },
+  {
+    "sku": "SPD-7K",
+    "name": "7,000 lb Wet Spindle",
+    "slug": "spd-7k-7-000-lb-wet-spindle",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Heavy-duty wet spindle for 7K axles."
+  },
+  {
+    "sku": "SPD-IDLER35",
+    "name": "3,500 lb Idler Spindle",
+    "slug": "spd-idler35-3-500-lb-idler-spindle",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Idler (non-brake) spindle, 3,500 lb class."
+  },
+  {
+    "sku": "SPD-EZ",
+    "name": "Easy Lube Spindle 3.5K",
+    "slug": "spd-ez-easy-lube-spindle-3-5k",
+    "category": "axle-and-suspension",
+    "subcategory": "spindles",
+    "summary": "Easy-lube style spindle for common 3,500 lb axles."
+  }
+]
