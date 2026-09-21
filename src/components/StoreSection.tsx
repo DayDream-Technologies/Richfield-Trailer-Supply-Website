@@ -21,7 +21,6 @@ export function StoreSection({ store }: { store: Store }) {
             <li>{store.hours.saturday}</li>
             <li>{store.hours.sunday}</li>
           </ul>
-          {store.hoursNote && <p className="mt-2 text-sm text-steel">{store.hoursNote}</p>}
           <div className="mt-6 flex flex-wrap gap-3">
             <a
               href={`tel:${store.phoneTel}`}

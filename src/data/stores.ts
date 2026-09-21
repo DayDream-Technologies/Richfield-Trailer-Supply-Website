@@ -14,7 +14,6 @@ export type Store = {
     saturday: string;
     sunday: string;
   };
-  hoursNote?: string;
   mapsUrl: string;
   mapsEmbed: string;
   description: string;
@@ -89,7 +88,6 @@ export const stores: Store[] = [
       saturday: "Sat 8:30am – 1:00pm",
       sunday: "Sun Closed",
     },
-    hoursNote: "Opens 30 minutes later than our Flint and Grand Rapids stores.",
     mapsUrl:
       "https://www.google.com/maps/search/?api=1&query=470+US-31+South+Traverse+City+MI+49685",
     mapsEmbed:
