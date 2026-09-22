@@ -21,7 +21,11 @@ export function Header() {
     <header className="sticky top-0 z-50">
       <div className="bg-navy-deep text-cream">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-1.5 text-xs tracking-wide md:px-6">
-          <p className="text-copper">Founded in Flint, MI in 1955. 100% Veteran Owned.</p>
+          <p className="text-copper">
+            Founded in Flint, MI in 1955.
+            <br />
+            100% Veteran Owned.
+          </p>
           <ul className="hidden items-center gap-4 md:flex">
             {stores.map((store) => (
               <li key={store.slug}>

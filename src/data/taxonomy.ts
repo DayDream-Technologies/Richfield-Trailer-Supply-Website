@@ -270,7 +270,7 @@ const defs: CategoryDef[] = [
   },
   {
     slug: "propane-gas",
-    name: "Propane Gas (LP / LPG)",
+    name: "Propane Gas",
     summary: "LP tanks, regulators, mounting, gas lights, and cylinder refills.",
     seoTitle: "RV Propane Tanks, Regulators & LP Refills in Michigan",
     description:

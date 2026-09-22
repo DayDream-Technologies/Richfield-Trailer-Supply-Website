@@ -15,7 +15,7 @@ export default function AboutPage() {
     <>
       <PageHero title="About Richfield Trailer Supply" />
       <article className="mx-auto max-w-3xl px-4 py-12 md:px-6">
-        <figure className="overflow-hidden rounded-sm border border-line">
+        <figure className="overflow-hidden border border-line">
           <Image
             src={flint1970s}
             alt="Richfield Trailer Supplies & Dist. storefront in Flint in the 1970s"
@@ -35,7 +35,7 @@ export default function AboutPage() {
           across the street from our original location, still on Richfield Road
           after more than 70 years!
         </p>
-        <p className="mt-4 leading-relaxed text-steel">
+        <p className="mt-4 text-lg leading-relaxed text-ink">
           In the 1980’s, the company added retail stores in Traverse City and Grand
           Rapids. In its history, the company sold snowmobile parts, was an RV
           dealer, and has carried various brands of parts and accessories that have

@@ -21,7 +21,15 @@ export default function ProductsPage() {
           {categories.map((category) => (
             <section key={category.slug} id={category.slug} className="scroll-mt-28">
               <h2 className="font-display text-xl font-semibold uppercase tracking-wide text-navy">
-                {category.name}
+                {category.slug === "propane-gas" ? (
+                  <>
+                    Propane Gas
+                    <br />
+                    <span className="pl-3 font-semibold">(LP / LPG)</span>
+                  </>
+                ) : (
+                  category.name
+                )}
               </h2>
               <ul className="mt-3 space-y-1.5 text-steel">
                 {category.subcategories.map((sub) => (

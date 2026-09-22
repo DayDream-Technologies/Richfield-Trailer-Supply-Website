@@ -1,8 +1,13 @@
 import Link from "next/link";
 import { Logo } from "@/components/Logo";
-import { stores, storeHashPath } from "@/data/stores";
+import { stores } from "@/data/stores";
 import { categories } from "@/data/taxonomy";
 import { site } from "@/lib/site";
+
+function categoryHref(slug: string) {
+  if (slug === "propane-gas") return "/propane/";
+  return `/products/#${slug}`;
+}
 
 export function Footer() {
   return (
@@ -13,7 +18,9 @@ export function Footer() {
             <Logo />
           </div>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-cream/80">
-            Founded in Flint, MI in 1955. 100% Veteran Owned.
+            Founded in Flint, MI in 1955.
+            <br />
+            100% Veteran Owned.
           </p>
           <ul className="mt-5 flex gap-3">
             <li>
@@ -51,9 +58,17 @@ export function Footer() {
           <ul className="mt-3 columns-1 text-sm sm:columns-2">
             {categories.map((category) => (
               <li key={category.slug} className="break-inside-avoid pb-2">
-                <a href={`/products/#${category.slug}`} className="hover:text-copper">
-                  {category.name}
-                </a>
+                <Link href={categoryHref(category.slug)} className="hover:text-copper">
+                  {category.slug === "propane-gas" ? (
+                    <>
+                      Propane Gas
+                      <br />
+                      <span className="pl-2">(LP / LPG)</span>
+                    </>
+                  ) : (
+                    category.name
+                  )}
+                </Link>
               </li>
             ))}
           </ul>
@@ -102,9 +117,9 @@ export function Footer() {
           <ul className="mt-3 space-y-4 text-sm">
             {stores.map((store) => (
               <li key={store.slug}>
-                <a href={storeHashPath(store.slug)} className="font-medium hover:text-copper">
+                <Link href={`/locations/#${store.slug}`} className="font-medium hover:text-copper">
                   {store.name}
-                </a>
+                </Link>
                 <p className="text-cream/70">
                   {store.street}
                   <br />

@@ -16,15 +16,7 @@ export default function FaqPage() {
   return (
     <>
       <JsonLd data={faqJsonLd()} />
-      <PageHero
-        title={
-          <>
-            Questions we hear
-            <br />
-            at the Parts Counter.
-          </>
-        }
-      />
+      <PageHero title="Questions we hear at the Parts Counter" />
       <div className="mx-auto max-w-3xl px-4 py-12 md:px-6">
         <dl className="space-y-8">
           {faqs.map((item) => (

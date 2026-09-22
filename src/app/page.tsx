@@ -2,11 +2,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { StoreCard } from "@/components/StoreCard";
-import { JsonLd } from "@/components/JsonLd";
 import { brands } from "@/data/brands";
-import { faqs } from "@/data/faq";
 import { stores } from "@/data/stores";
-import { faqJsonLd } from "@/lib/seo";
 import { site } from "@/lib/site";
 import hero from "@/images/hero.avif";
 
@@ -19,7 +16,6 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
-      <JsonLd data={faqJsonLd()} />
       <section className="relative isolate min-h-[28rem] overflow-hidden bg-navy text-cream md:min-h-[36rem]">
         <Image
           src={hero}
@@ -36,7 +32,9 @@ export default function HomePage() {
         <div className="relative mx-auto flex min-h-[28rem] max-w-6xl items-center px-4 py-16 md:min-h-[36rem] md:px-6 md:py-24">
           <div className="max-w-xl">
             <p className="text-xs font-semibold uppercase tracking-[0.28em] text-brand">
-              Founded in 1955 in Flint, Michigan. 100% Veteran Owned.
+              Founded in 1955 in Flint, Michigan.
+              <br />
+              100% Veteran Owned.
             </p>
             <h1 className="mt-4 font-display text-4xl font-semibold uppercase leading-tight tracking-wide md:text-6xl">
               Trailer parts near
@@ -102,8 +100,7 @@ export default function HomePage() {
             </p>
             <ul className="mt-6 space-y-3 text-ink">
               <li className="border-l-2 border-brand pl-4">In-stock trailer, RV, marine, and towing parts</li>
-              <li className="border-l-2 border-brand pl-4">Special order when the number is not on the shelf</li>
-              <li className="border-l-2 border-brand pl-4">Wholesale accounts — call the store that serves you</li>
+              <li className="border-l-2 border-brand pl-4">Special order when the item is not on the shelf.</li>
             </ul>
           </div>
           <div>
@@ -124,27 +121,6 @@ export default function HomePage() {
               ))}
             </ul>
           </div>
-        </div>
-      </section>
-
-      <section className="border-t border-line bg-paper">
-        <div className="mx-auto max-w-6xl px-4 py-14 md:px-6">
-          <div className="flex items-end justify-between">
-            <h2 className="font-display text-3xl uppercase tracking-wide text-navy">
-              Common questions
-            </h2>
-            <Link href="/faq/" className="text-sm font-medium text-navy underline-offset-2 hover:underline">
-              All FAQs
-            </Link>
-          </div>
-          <dl className="mt-8 grid gap-6 md:grid-cols-2">
-            {faqs.slice(0, 4).map((item) => (
-              <div key={item.question}>
-                <dt className="font-medium text-navy">{item.question}</dt>
-                <dd className="mt-2 text-sm leading-relaxed text-steel">{item.answer}</dd>
-              </div>
-            ))}
-          </dl>
         </div>
       </section>
     </>

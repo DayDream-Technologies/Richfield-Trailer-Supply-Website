@@ -1,5 +1,5 @@
+import Link from "next/link";
 import type { Store } from "@/data/stores";
-import { storeHashPath } from "@/data/stores";
 
 export function StoreCard({ store }: { store: Store }) {
   return (
@@ -31,12 +31,12 @@ export function StoreCard({ store }: { store: Store }) {
           Email
         </a>
       </div>
-      <a
-        href={storeHashPath(store.slug)}
+      <Link
+        href={`/locations/#${store.slug}`}
         className="mt-4 text-sm font-medium text-navy underline-offset-2 hover:underline"
       >
         Hours, map, and directions →
-      </a>
+      </Link>
     </article>
   );
 }

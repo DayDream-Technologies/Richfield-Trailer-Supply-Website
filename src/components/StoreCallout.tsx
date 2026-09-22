@@ -1,4 +1,5 @@
-import { stores, storeHashPath } from "@/data/stores";
+import Link from "next/link";
+import { stores } from "@/data/stores";
 
 export function StoreCallout({
   heading = "Call for stock and pricing",
@@ -27,12 +28,12 @@ export function StoreCallout({
               <span className="text-copper-dark">{store.phone}</span>
               <span className="mt-1 text-sm text-steel">{store.hours.weekday}</span>
             </a>
-            <a
-              href={storeHashPath(store.slug)}
+            <Link
+              href={`/locations/#${store.slug}`}
               className="mt-1 inline-block text-sm text-navy underline-offset-2 hover:underline"
             >
               Store details
-            </a>
+            </Link>
           </li>
         ))}
       </ul>

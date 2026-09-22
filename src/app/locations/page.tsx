@@ -30,10 +30,7 @@ export default function LocationsPage() {
           })),
         }}
       />
-      <PageHero
-        title="Locations"
-        description="Experienced Parts Specialists are available to get you the right part the first time. Visit, call, or email us."
-      />
+      <PageHero title="Locations" />
       <div className="mx-auto max-w-6xl px-4 py-12 md:px-6">
         <MichiganMap />
         <div className="mt-4">
