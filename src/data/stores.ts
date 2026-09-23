@@ -89,13 +89,13 @@ export const stores: Store[] = [
       sunday: "Sun Closed",
     },
     mapsUrl:
-      "https://www.google.com/maps/search/?api=1&query=470+US-31+South+Traverse+City+MI+49685",
+      "https://www.google.com/maps/search/?api=1&query=Richfield+Trailer+Supply+Traverse+City&query_place_id=ChIJue3ev48yHogRbhiJ_lMqUKE",
     mapsEmbed:
-      "https://maps.google.com/maps?q=470%20US-31%20South%2C%20Traverse%20City%2C%20MI%2049685&output=embed",
+      "https://maps.google.com/maps?q=44.6934179%2C-85.6555516&z=17&output=embed",
     description:
       "Northern Michigan’s trailer parts counter on US-31, stocked for boat trailers, utility trailers, RVs, and year-round repair work.",
-    lat: 44.7318,
-    lon: -85.6412,
+    lat: 44.6934179,
+    lon: -85.6555516,
   },
 ];
 
