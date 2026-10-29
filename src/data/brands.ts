@@ -1,6 +1,6 @@
 export const brands = [
   "AL-KO",
-  "Anderson",
+  "Andersen",
   "B&W",
   "Bio-Kleen",
   "Buyers",
@@ -21,6 +21,6 @@ export const brands = [
   "SureTrac",
   "TRP",
   "UFP",
-  "Valtarra",
+  "Valterra",
   "Weigh Safe",
 ];
